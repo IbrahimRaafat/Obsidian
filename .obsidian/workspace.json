@@ -11,10 +11,14 @@
             "id": "e51f575a34dda141",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Programming/Lectures/Lecture 0.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 0"
             }
           }
         ]
@@ -169,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "135835654911bcfb",
+  "active": "e51f575a34dda141",
   "lastOpenFiles": [
     "git initialize.md",
     "2024-12-17.md",
