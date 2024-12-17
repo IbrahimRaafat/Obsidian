@@ -1,0 +1,78 @@
+---
+title: "Name Lastname (Id Number) - Exercise N"
+output:
+  html_document: 
+    df_print: paged
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+You should save this document as name-lastname-exN.Rmd After substituting the symbol N with the exercise number (1, 2, 3 or 4).
+
+# Point a solution
+
+Write here the solution to point a
+
+# Point b solution
+
+Write here the solution to point b (if it exists, otherwise cancel this section)
+
+# Point c solution
+
+Write here the solution to point c (if it exists, otherwise cancel this section; create new sections as needed if the quesiton has more points)
+
+**CANCEL ALL THE FOLLOWING!**
+
+**Some useful LaTeX commands for writing formulas** 
+
+Inline formulas : $\sin(\pi x)$
+
+Formulas in a separate line:
+$$
+\sin(\pi x)
+$$
+
+Set operations:
+$$
+A \cap B, A\cup B, \bar{A}=\Omega\setminus A
+$$
+Mean and variance:
+$$
+\mu_X, E[X],\bar{X}, \bar{x}, \sigma^2, Var[X]
+$$
+Fractions:
+$$
+\frac{1}{\sqrt{2}} X_i, \frac{X_i}{Y_i}
+$$
+
+Sums: 
+$$
+\sum_{i=1}^n X_i, \sum_{i=1}^n \log X_i, \sum_{i=1}^n \sqrt{X_i}, \sum_{i=1}^n \frac{X_i}{Y_i}
+$$
+Integrals:
+$$
+\int_{0}^1 f(x) dx, \int_{a}^{\infty} f(x) dx, \int_{-\infty}^{\infty} f(x) dx
+$$
+
+Matrices:
+$${G}=\left[\begin{array}{ccc}
+-4 & 2 & 2\\
+1 & -2 & 1\\
+0.5 & 1 & -1.5\end{array}
+\right]$$
+
+**Code chunks and R commands**
+
+```{r, error = TRUE}
+2 * 3 / log(1.2)
+sin(2 * pi / 20)
+a <- 2 * c(1, 2)
+a
+p <- pnorm(0.95)
+p
+G <- matrix(c(-4, 2, 2, 1, -2, 1, 0.5, 1, -1.5),ncol=3, byrow=T)
+G
+```
+
+ Inline R operations $3+4=`r 3+4`$. Or, once a value has been defined in a code chunk (like the one above), $p=`r p`$.

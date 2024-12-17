@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "72bc24255c16e2a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ddc28965569deb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51f575a34dda141",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e86095477c010481",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae1478e2b045df65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135835654911bcfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b2e8012805b3ea0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62baa776e75d32c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "581812d14bd7007f",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c8a46a27fa9466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a76f1c79245b19c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Link1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Link1"
+            }
+          },
+          {
+            "id": "80d062b9a2eadc1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Link1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Link1"
+            }
+          },
+          {
+            "id": "ac21e7c32d8b0a2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "076f79fa06d14e15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Link1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Link1"
+            }
+          },
+          {
+            "id": "46af4703a3508390",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "135835654911bcfb",
+  "lastOpenFiles": [
+    "git initialize.md",
+    "2024-12-17.md",
+    "Untitled.canvas",
+    "Advanced Programming/Lectures/Lecture 22.md",
+    "Advanced Programming/Lectures/Lecture 21 Typeclasses in Scala.md",
+    "Advanced Programming/Lectures/Lecture 20 Overloading and Typeclasses.md",
+    "Advanced Programming/Lectures/Lecture 19 F-Bounded Parametrization.md",
+    "Advanced Programming/Lectures/Lecture 18 Type Parametrization.md",
+    "Advanced Programming/Lectures/Lecture 17 Subtyping and Inheritance.md",
+    "Advanced Programming/Lectures/Lecture 16 Subtyping - Part II.md",
+    "Advanced Programming/Lectures/Lecture 15 Subtyping - Part I.md",
+    "Advanced Programming/Lectures/Lecture 14 Lazy Evaluation.md",
+    "Advanced Programming/Lectures/Lecture 13 Evaluation Strategies.md",
+    "Advanced Programming/Lectures/Lecture 12 Higher Order - Part II.md",
+    "Advanced Programming/Lectures/Lecture 11 Higher Order - Part I.md",
+    "Advanced Programming/Lectures/Lecture 10 Lists and Collections.md",
+    "Advanced Programming/Lectures/Lecture 0.md",
+    "Advanced Programming/Lectures/Lecture 7 Typed Lambda Calculus.md",
+    "Advanced Programming/Lectures/Lecture 4 Pure λ Calculus - Part II.md",
+    "Advanced Programming/Lectures/Lecture 1-A.md",
+    "Advanced Programming/Lectures/Lecture 8 Algebraic Data Types.md",
+    "Advanced Programming/Lectures/Lecture 9 ADTs in Programming Languages.md",
+    "Advanced Programming/Lectures/Lecture 5-B Typed Systems.md",
+    "Advanced Programming/Lectures/Lecture 1-B.md",
+    "Advanced Programming/Lectures/Lecture 2 Scala Overview.md",
+    "Advanced Programming/Lectures/Lecture 3 Lambda Calculus - Part I.md",
+    "Advanced Programming/Lectures/Lecture 5-A  Inductive Definitions.md",
+    "Advanced Programming/Lectures",
+    "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
+    "Advanced Programming/PDFs",
+    "Advanced Programming/PDFs/8. Algebraic Data Types.pdf",
+    "Advanced Programming/PDFs/7. Typed Lambda Calculus.pdf",
+    "Advanced Programming/PDFs/5-B. Typed Systems.pdf",
+    "Advanced Programming/PDFs/5-A. Inductive Definitions.pdf",
+    "Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
+    "Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
+    "Advanced Programming/PDFs/2. Scala Overview.pdf",
+    "System Security/Pasted image 20241123002534.jpg",
+    "System Security/Pasted image 20241122185249.png",
+    "Untitled 1.canvas"
+  ]
+}
