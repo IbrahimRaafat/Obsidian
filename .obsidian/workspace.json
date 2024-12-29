@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ddc28965569deb3",
+        "id": "81ed68452fca1cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "e51f575a34dda141",
+            "id": "c82c4edd671644c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applied Probability/1- Elementary Probability.md",
+                "file": "Exams Calender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1- Elementary Probability"
+              "title": "Exams Calender"
             }
           }
         ]
@@ -173,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e51f575a34dda141",
+  "active": "c82c4edd671644c8",
   "lastOpenFiles": [
+    "Exams Calender.md",
+    "Applied Probability/1- Elementary Probability.md",
     "Applied Probability/1_Elementary_Probability.pdf",
     "Advanced Programming/Lectures/Lecture 0.md",
     "git initialize.md",
@@ -201,7 +203,6 @@
     "Advanced Programming/Lectures/Lecture 5-B Typed Systems.md",
     "Advanced Programming/Lectures/Lecture 1-B.md",
     "Advanced Programming/Lectures/Lecture 2 Scala Overview.md",
-    "Advanced Programming/Lectures/Lecture 3 Lambda Calculus - Part I.md",
     "Advanced Programming/Lectures",
     "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Advanced Programming/PDFs",
@@ -211,7 +212,6 @@
     "Advanced Programming/PDFs/5-A. Inductive Definitions.pdf",
     "Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
     "Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
-    "Advanced Programming/PDFs/2. Scala Overview.pdf",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
