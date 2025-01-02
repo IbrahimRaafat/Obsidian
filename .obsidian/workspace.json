@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formal Methods/Lectures/Lecture 1.md",
+                "file": "Formal Methods/Lectures/Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "Lecture 2"
             }
           }
         ]
@@ -175,6 +175,7 @@
   },
   "active": "c82c4edd671644c8",
   "lastOpenFiles": [
+    "Formal Methods/Lectures/Lecture 1.md",
     "Exams Calender.md",
     "Applied Probability/1- Elementary Probability.md",
     "Applied Probability/1_Elementary_Probability.pdf",
@@ -202,7 +203,6 @@
     "Advanced Programming/Lectures/Lecture 9 ADTs in Programming Languages.md",
     "Advanced Programming/Lectures/Lecture 5-B Typed Systems.md",
     "Advanced Programming/Lectures/Lecture 1-B.md",
-    "Advanced Programming/Lectures/Lecture 2 Scala Overview.md",
     "Advanced Programming/Lectures",
     "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Advanced Programming/PDFs",
