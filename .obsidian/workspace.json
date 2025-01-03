@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Formal Methods/Lectures/lezione1.pdf"
+                "file": "Formal Methods/Lectures/lezione2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "lezione1"
+              "title": "lezione2"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "c82c4edd671644c8",
   "lastOpenFiles": [
+    "Formal Methods/Lectures/lezione1.pdf",
     "Formal Methods/Lectures/Lecture 1.md",
     "Formal Methods/Lectures/Lecture 2.md",
     "Exams Calender.md",
@@ -200,7 +201,6 @@
     "Advanced Programming/Lectures/Lecture 1-A.md",
     "Advanced Programming/Lectures/Lecture 8 Algebraic Data Types.md",
     "Advanced Programming/Lectures/Lecture 9 ADTs in Programming Languages.md",
-    "Advanced Programming/Lectures/Lecture 5-B Typed Systems.md",
     "Advanced Programming/Lectures",
     "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Advanced Programming/PDFs",
