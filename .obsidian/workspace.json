@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Formal Methods/Lectures/lezione2.pdf"
+                "file": "Formal Methods/Lectures/lezione3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "lezione2"
+              "title": "lezione3"
             }
           }
         ]
@@ -168,11 +168,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "c82c4edd671644c8",
   "lastOpenFiles": [
+    "Formal Methods/Lectures/lezione2.pdf",
     "Formal Methods/Lectures/lezione1.pdf",
     "Formal Methods/Lectures/Lecture 1.md",
     "Formal Methods/Lectures/Lecture 2.md",
@@ -209,7 +211,6 @@
     "Advanced Programming/PDFs/5-B. Typed Systems.pdf",
     "Advanced Programming/PDFs/5-A. Inductive Definitions.pdf",
     "Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
-    "Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
