@@ -1,1 +1,1 @@
---- annotation-target:![[lezione1.pdf]] ---
+--- annotation-target::![[lezione1.pdf]] ---
