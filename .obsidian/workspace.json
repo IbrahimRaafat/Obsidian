@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81ed68452fca1cf0",
+        "id": "b1b365dad8b6d250",
         "type": "tabs",
         "children": [
           {
-            "id": "c82c4edd671644c8",
+            "id": "1c32af51f03e094a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,10 +174,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c82c4edd671644c8",
+  "active": "1c32af51f03e094a",
   "lastOpenFiles": [
-    "Formal Methods/Lectures/Lecture 1.md",
     "Untitled.md",
+    "Formal Methods/Lectures/Lecture 1.md",
     "Formal Methods/Lectures/Lecture 5.md",
     "Formal Methods/Lectures/Lecture 3.md",
     "Formal Methods/Lectures/Lecture 2.md",
