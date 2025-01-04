@@ -11,15 +11,30 @@
             "id": "c82c4edd671644c8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formal Methods/Lectures/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
+            }
+          },
+          {
+            "id": "42c2e1f18f70e0bf",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Formal Methods/Lectures/lezione1.pdf"
+                "file": "Formal Methods/Lectures/lezione3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "lezione1"
+              "title": "lezione3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +187,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c82c4edd671644c8",
+  "active": "42c2e1f18f70e0bf",
   "lastOpenFiles": [
-    "Formal Methods/Lectures/lezione2.pdf",
     "Formal Methods/Lectures/lezione1.pdf",
+    "Formal Methods/Lectures/Lecture 10.md",
     "Formal Methods/Lectures/Lecture 1.md",
+    "Untitled.md",
+    "Formal Methods/Lectures/lezione2.pdf",
     "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/Lecture 2.md",
     "Exams Calender.md",
@@ -202,8 +219,6 @@
     "Advanced Programming/Lectures/Lecture 7 Typed Lambda Calculus.md",
     "Advanced Programming/Lectures/Lecture 4 Pure λ Calculus - Part II.md",
     "Advanced Programming/Lectures/Lecture 1-A.md",
-    "Advanced Programming/Lectures/Lecture 8 Algebraic Data Types.md",
-    "Advanced Programming/Lectures/Lecture 9 ADTs in Programming Languages.md",
     "Advanced Programming/Lectures",
     "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Advanced Programming/PDFs",
