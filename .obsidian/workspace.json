@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Formal Methods/Lectures/lezione3.pdf"
+                "file": "Formal Methods/Lectures/lezione1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "lezione3"
+              "title": "lezione1"
             }
           }
         ]
@@ -177,6 +177,7 @@
     "Formal Methods/Lectures/lezione2.pdf",
     "Formal Methods/Lectures/lezione1.pdf",
     "Formal Methods/Lectures/Lecture 1.md",
+    "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/Lecture 2.md",
     "Exams Calender.md",
     "Applied Probability/1- Elementary Probability.md",
@@ -209,8 +210,6 @@
     "Advanced Programming/PDFs/8. Algebraic Data Types.pdf",
     "Advanced Programming/PDFs/7. Typed Lambda Calculus.pdf",
     "Advanced Programming/PDFs/5-B. Typed Systems.pdf",
-    "Advanced Programming/PDFs/5-A. Inductive Definitions.pdf",
-    "Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
