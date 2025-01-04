@@ -25,12 +25,14 @@
             "id": "42c2e1f18f70e0bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Formal Methods/Lectures/lezione3.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lezione3"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -189,13 +191,15 @@
   },
   "active": "42c2e1f18f70e0bf",
   "lastOpenFiles": [
+    "Formal Methods/Lectures/Lecture 5.md",
+    "Formal Methods/Lectures/Lecture 3.md",
+    "Formal Methods/Lectures/Lecture 2.md",
+    "Formal Methods/Lectures/Lecture 1.md",
+    "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/lezione1.pdf",
     "Formal Methods/Lectures/Lecture 10.md",
-    "Formal Methods/Lectures/Lecture 1.md",
     "Untitled.md",
     "Formal Methods/Lectures/lezione2.pdf",
-    "Formal Methods/Lectures/lezione3.pdf",
-    "Formal Methods/Lectures/Lecture 2.md",
     "Exams Calender.md",
     "Applied Probability/1- Elementary Probability.md",
     "Applied Probability/1_Elementary_Probability.pdf",
@@ -218,7 +222,6 @@
     "Advanced Programming/Lectures/Lecture 10 Lists and Collections.md",
     "Advanced Programming/Lectures/Lecture 7 Typed Lambda Calculus.md",
     "Advanced Programming/Lectures/Lecture 4 Pure λ Calculus - Part II.md",
-    "Advanced Programming/Lectures/Lecture 1-A.md",
     "Advanced Programming/Lectures",
     "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Advanced Programming/PDFs",
