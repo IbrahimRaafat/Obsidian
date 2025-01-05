@@ -5,6 +5,8 @@
 - [ ] Software Architecture : 13/1/2025
 - [ ] Applied Probability : 23/1/2025
 - [ ] Advanced Programming :
+
+
 ## Second Session
  - [ ] Software Architecture : 27/1/2025
  - [ ] Formal Methods : 30/1/2025

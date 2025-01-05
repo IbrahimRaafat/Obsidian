@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "Exams Calender.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Exams Calender"
             }
           }
         ]
@@ -176,17 +176,19 @@
   },
   "active": "1c32af51f03e094a",
   "lastOpenFiles": [
+    "System Security/LEC 1.pdf",
+    "System Security/Access-Control.pdf",
+    "Exams Calender.md",
+    "Untitled.md",
     "Formal Methods/Lectures/lezione1.pdf",
     "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/lezione4.pdf",
-    "Untitled.md",
     "Formal Methods/Lectures/Lecture 1.md",
     "Formal Methods/Lectures/Lecture 5.md",
     "Formal Methods/Lectures/Lecture 3.md",
     "Formal Methods/Lectures/Lecture 2.md",
     "Formal Methods/Lectures/Lecture 10.md",
     "Formal Methods/Lectures/lezione2.pdf",
-    "Exams Calender.md",
     "Applied Probability/1- Elementary Probability.md",
     "Applied Probability/1_Elementary_Probability.pdf",
     "Advanced Programming/Lectures/Lecture 0.md",
@@ -211,8 +213,6 @@
     "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Advanced Programming/PDFs",
     "Advanced Programming/PDFs/8. Algebraic Data Types.pdf",
-    "Advanced Programming/PDFs/7. Typed Lambda Calculus.pdf",
-    "Advanced Programming/PDFs/5-B. Typed Systems.pdf",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
