@@ -11,12 +11,14 @@
             "id": "1c32af51f03e094a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Formal Methods/Lectures/lezione3.pdf"
+                "file": "Exams Calender.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lezione3"
+              "icon": "lucide-file",
+              "title": "Exams Calender"
             }
           }
         ]
@@ -174,13 +176,13 @@
   },
   "active": "1c32af51f03e094a",
   "lastOpenFiles": [
+    "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/Lecture 3.md",
     "Exams Calender.md",
     "System Security/LEC 1.pdf",
     "System Security/Access-Control.pdf",
     "Untitled.md",
     "Formal Methods/Lectures/lezione1.pdf",
-    "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/lezione4.pdf",
     "Formal Methods/Lectures/Lecture 1.md",
     "Formal Methods/Lectures/Lecture 5.md",
