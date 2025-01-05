@@ -1,1 +1,1 @@
-annotation target:! ![[lezione2.pdf]]
+annotation target:![[lezione2.pdf]]
