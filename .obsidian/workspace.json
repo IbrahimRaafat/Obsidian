@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Security/Security-Design-Priniciples.pdf"
+                "file": "Formal Methods/Lectures/lezione3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Security-Design-Priniciples"
+              "title": "lezione3"
             }
           }
         ]
@@ -172,8 +172,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "135835654911bcfb",
+  "active": "b3768ca1f2219ba5",
   "lastOpenFiles": [
+    "Formal Methods/Lectures/lezione4.pdf",
+    "Formal Methods/Lectures/lezione2.pdf",
+    "System Security/Security-Design-Priniciples.pdf",
     "System Security/Operating-System-Security.pdf",
     "System Security/Security-APIs.pdf",
     "System Security/Formal-Methods-for-Security.pdf",
@@ -181,10 +184,7 @@
     "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Computer Security Priniciples.pdf",
     "System Security/Introduction-to-Cryptography-small.pdf",
-    "System Security/Security-Design-Priniciples.pdf",
     "System Security/Lecture 3.pdf",
-    "System Security/Lecture 2.pdf",
-    "System Security/Lecture 1.pdf",
     "Exams Calender.md",
     "Formal Methods/Lectures/Lecture 3.md",
     "Untitled.md",
