@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b365dad8b6d250",
+        "id": "12b4571d31acb151",
         "type": "tabs",
         "children": [
           {
-            "id": "1c32af51f03e094a",
+            "id": "b3768ca1f2219ba5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Security/LEC 1.pdf"
+                "file": "System Security/Security-Design-Priniciples.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "LEC 1"
+              "title": "Security-Design-Priniciples"
             }
           }
         ]
@@ -172,13 +172,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1c32af51f03e094a",
+  "active": "b3768ca1f2219ba5",
   "lastOpenFiles": [
-    "System Security/Access-Control.pdf",
+    "System Security/Lecture 3.pdf",
+    "System Security/Lecture 2.pdf",
+    "System Security/Lecture 1.pdf",
+    "System Security/Security-Design-Priniciples.pdf",
+    "System Security/Lecture 5 Malware2.pdf",
+    "System Security/Lecture 4 - Malware1.pdf",
+    "System Security/Introduction-to-Cryptography-small.pdf",
     "Exams Calender.md",
     "Formal Methods/Lectures/lezione3.pdf",
     "Formal Methods/Lectures/Lecture 3.md",
-    "System Security/LEC 1.pdf",
     "Untitled.md",
     "Formal Methods/Lectures/lezione1.pdf",
     "Formal Methods/Lectures/lezione4.pdf",
@@ -188,7 +193,6 @@
     "Formal Methods/Lectures/Lecture 10.md",
     "Formal Methods/Lectures/lezione2.pdf",
     "Applied Probability/1- Elementary Probability.md",
-    "Applied Probability/1_Elementary_Probability.pdf",
     "Advanced Programming/Lectures/Lecture 0.md",
     "git initialize.md",
     "2024-12-17.md",
@@ -207,9 +211,6 @@
     "Advanced Programming/Lectures/Lecture 11 Higher Order - Part I.md",
     "Advanced Programming/Lectures/Lecture 10 Lists and Collections.md",
     "Advanced Programming/Lectures/Lecture 7 Typed Lambda Calculus.md",
-    "Advanced Programming/Lectures",
-    "Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
-    "Advanced Programming/PDFs",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
