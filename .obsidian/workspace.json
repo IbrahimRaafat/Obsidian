@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -172,24 +172,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3768ca1f2219ba5",
+  "active": "135835654911bcfb",
   "lastOpenFiles": [
-    "Exams Calender.md",
-    "Formal Methods/Lectures/lezione3.pdf",
-    "Formal Methods/Lectures/lezione4.pdf",
     "Formal Methods/Lectures/lezione2.pdf",
+    "Formal Methods/Lectures/Lecture 3.md",
+    "Formal Methods/Lectures/Lecture 2.md",
+    "Formal Methods/Lectures/Lecture 1.md",
+    "Formal Methods/Lectures/Lecture 7.md",
+    "Formal Methods/Lectures/lezione1.pdf",
+    "Formal Methods/Lectures/lezione3.pdf",
+    "Exams Calender.md",
+    "Formal Methods/Lectures/lezione4.pdf",
     "System Security/Security-Design-Priniciples.pdf",
     "System Security/Operating-System-Security.pdf",
     "System Security/Security-APIs.pdf",
     "System Security/Formal-Methods-for-Security.pdf",
     "System Security/Side-channels.pdf",
     "System Security/Lecture 8- Intrusion-Detection.pdf",
-    "System Security/Computer Security Priniciples.pdf",
-    "Formal Methods/Lectures/Lecture 3.md",
     "Untitled.md",
-    "Formal Methods/Lectures/Lecture 1.md",
     "Formal Methods/Lectures/Lecture 5.md",
-    "Formal Methods/Lectures/Lecture 2.md",
     "Formal Methods/Lectures/Lecture 10.md",
     "Applied Probability/1- Elementary Probability.md",
     "Advanced Programming/Lectures/Lecture 0.md",
@@ -209,7 +210,6 @@
     "Advanced Programming/Lectures/Lecture 12 Higher Order - Part II.md",
     "Advanced Programming/Lectures/Lecture 11 Higher Order - Part I.md",
     "Advanced Programming/Lectures/Lecture 10 Lists and Collections.md",
-    "Advanced Programming/Lectures/Lecture 7 Typed Lambda Calculus.md",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
