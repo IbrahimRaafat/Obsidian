@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Security/Lecture 8- Intrusion-Detection.pdf"
+                "file": "System Security/Lecture 12 Security-APIs.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 8- Intrusion-Detection"
+              "title": "Lecture 12 Security-APIs"
             }
           }
         ]
@@ -175,11 +175,14 @@
   },
   "active": "8382f7560c3e0882",
   "lastOpenFiles": [
+    "System Security/Lecture 9 Software-Security.pdf",
+    "System Security/Lecture 3 Access Control.pdf",
+    "System Security/Lecture 2 User Authentication.pdf",
+    "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Exam solutions.md",
     "System Security/Lecture 12 Security-APIs.pdf",
     "System Security/Lecture 7- Database-Security.pdf",
     "System Security/Lecture 6- Denial-of-Service.pdf",
-    "System Security/Lecture 9 Software-Security.pdf",
     "System Security/Security2021-01-14[1].pdf",
     "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
     "Software Architecture/Lectures/Lecture 1.md",
@@ -188,10 +191,8 @@
     "Advanced Programming/Lectures/Lecture 10 Lists and Collections.md",
     "Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
     "Software Architecture/Lectures/Lecture 2.md",
-    "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Lecture 5 Malware2.pdf",
     "System Security/Lecture 4 - Malware1.pdf",
-    "System Security/Lecture 3 Access Control.pdf",
     "System Security/Types of Attacks.md",
     "Exams Calender.md",
     "Untitled.canvas",
