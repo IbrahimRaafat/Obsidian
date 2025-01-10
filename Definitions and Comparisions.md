@@ -7,11 +7,11 @@
 - **Availability**: Ensuring systems and data are accessible to authorized users when needed.
 - **Authentication**: Verifying the identity of a user or entity (e.g., username and password).
 - **Authorization**: Determining what actions or resources an authenticated user is allowed to access (e.g., file permissions).
-- **Non-Repudiation**: Ensuring that a sender cannot deny sending a message or performing an action (e.g., digital signatures).
+- ==**Non-Repudiation**: Ensuring that a sender cannot deny sending a message or performing an action (e.g., digital signatures).==
 - **Access Control**: Mechanisms to regulate access to systems and resources based on policies and roles.
 - **Malware**: Malicious software designed to disrupt, damage, or gain unauthorized access to systems.
 - **Denial of Service (DoS)**: An attack that overwhelms a system to render it inaccessible to legitimate users.
-- **Intrusion Detection System (IDS)**: Monitors network or system activity to detect malicious activities or policy violations.
+- ==**Intrusion Detection System (IDS)**: Monitors network or system activity to detect malicious activities or policy violations.==
 - **Cryptography**: The practice of securing communication and data through encryption, hashing, and digital signatures.
 
 ## Security Design Principles

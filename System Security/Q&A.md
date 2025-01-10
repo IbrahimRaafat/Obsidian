@@ -115,7 +115,7 @@
   **A**: Machine learning helps detect complex, evolving attack patterns by analyzing large datasets.
 
 - **Q**: Discuss the concept of a honeypot and its role in intrusion detection.  
-  **A**: A honeypot is a decoy system designed to attract attackers and gather intelligence on their methods.
+  **A**: A honeypot [[honeypot]]is a decoy system designed to attract attackers and gather intelligence on their methods.
 
 ---
 
