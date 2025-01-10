@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Security/Lecture 6- Denial-of-Service.pdf"
+                "file": "System Security/Lecture 1-2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 6- Denial-of-Service"
+              "title": "Lecture 1-2"
             }
           }
         ]
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 331.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -172,23 +172,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ad442b7a760b78cc",
+  "active": "135835654911bcfb",
   "lastOpenFiles": [
+    "System Security/Lecture 12 Security-APIs.pdf",
+    "System Security/Lecture 11- Trusted-Computing.pdf",
+    "System Security/Lecture 10 Operating-System-Security.pdf",
+    "System Security/Lecture 9 Software-Security.pdf",
+    "System Security/Lecture 1 Introduction and Basic Concepts.pdf",
+    "System Security/Lecture 2 User Authentication.pdf",
+    "System Security/Lecture 3 Access Control.pdf",
+    "System Security/Introduction-to-Cryptography-small.pdf",
+    "System Security/Formal-Methods-for-Security.pdf",
+    "System Security/Computer Security Priniciples.pdf",
+    "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Q&A.md",
     "Untitled.canvas",
     "Types of Attacks.md",
     "honeypot.md",
     "Definitions and Comparisions.md",
-    "System Security/Lecture 5 Malware2.pdf",
-    "Formal Methods/Lectures/lezione7.pdf",
-    "Formal Methods/Lectures/lezione9.pdf",
-    "System Security/Operating-System-Security.pdf",
-    "System Security/Lecture 8- Intrusion-Detection.pdf",
-    "System Security/Lecture 7- Database-Security.pdf",
-    "System Security/Lecture 6- Denial-of-Service.pdf",
-    "System Security/Lecture 4 - Malware1.pdf",
-    "System Security/Lecture 3.pdf",
-    "System Security/Lecture 2.pdf",
     "Formal Methods/Lectures/Operational Semantics and nonces of cooperation.md",
     "Formal Methods/Lectures/Lecture 3.md",
     "Formal Methods/Lectures/Lecture 2.md",
