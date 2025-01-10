@@ -1,6 +1,7 @@
 [
   "obsidian-git",
-  "omnisearch",
   "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "obsidian-extract-pdf-highlights",
+  "omnisearch"
 ]
