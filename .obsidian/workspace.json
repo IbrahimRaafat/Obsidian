@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Security/Lecture 6- Denial-of-Service.pdf"
+                "file": "System Security/Lecture 10 Operating-System-Security.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 6- Denial-of-Service"
+              "title": "Lecture 10 Operating-System-Security"
             }
           }
         ],
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "خرثقoverov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,15 +204,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9b2e8012805b3ea0",
+  "active": "38bdad2580003862",
   "lastOpenFiles": [
+    "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
+    "System Security/Computer Security Priniciples.pdf",
+    "System Security/Exam solutions.md",
+    "System Security/Q&A.md",
+    "System Security/Lecture 6- Denial-of-Service.pdf",
     "Untitled.md",
     "System Security/Lecture 13- Formal-Methods-for-Security.pdf",
-    "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
     "A.md",
     "System Security/Types of Attacks.md",
-    "System Security/Lecture 6- Denial-of-Service.pdf",
-    "System Security/Exam solutions.md",
     "Exams Calender.md",
     "System Security/Lecture 12 Security-APIs.pdf",
     "System Security/Lecture 9 Software-Security.pdf",
@@ -229,7 +230,6 @@
     "Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
     "Software Architecture/Lectures/Lecture 2.md",
     "Untitled.canvas",
-    "System Security/Q&A.md",
     "honeypot.md",
     "Definitions and Comparisions.md",
     "Formal Methods/Lectures/Operational Semantics and nonces of cooperation.md",
