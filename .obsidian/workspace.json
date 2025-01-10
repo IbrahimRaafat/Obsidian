@@ -4,58 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "12b4571d31acb151",
+        "id": "ea728fcd22638bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "839d588f32a2a0b3",
+            "id": "ad442b7a760b78cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "System Security/Lecture 4 - Malware1.pdf"
+                "file": "System Security/Q&A.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 4 - Malware1"
+              "icon": "lucide-file",
+              "title": "Q&A"
             }
           },
           {
-            "id": "62e15dc10d5c6e7b",
+            "id": "95d209fac9a6bc76",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Formal Methods/Lectures/lezione9.pdf"
+                "file": "Types of Attacks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lezione9"
+              "icon": "lucide-file",
+              "title": "Types of Attacks"
             }
           },
           {
-            "id": "8d6255268737615b",
+            "id": "27cd66948a412cda",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Formal Methods/Lectures/lezione9.pdf"
+                "file": "Definitions and Comparisions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "lezione9"
-            }
-          },
-          {
-            "id": "4d53acd876187b2f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Formal Methods/Lectures/lezione7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "lezione7"
+              "icon": "lucide-file",
+              "title": "Definitions and Comparisions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,20 +203,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "839d588f32a2a0b3",
+  "active": "27cd66948a412cda",
   "lastOpenFiles": [
+    "Types of Attacks.md",
+    "Definitions and Comparisions.md",
+    "System Security/Q&A.md",
+    "System Security/Lecture 5 Malware2.pdf",
+    "Formal Methods/Lectures/lezione7.pdf",
+    "Formal Methods/Lectures/lezione9.pdf",
+    "System Security/Operating-System-Security.pdf",
+    "System Security/Lecture 8- Intrusion-Detection.pdf",
+    "System Security/Lecture 7- Database-Security.pdf",
+    "System Security/Lecture 6- Denial-of-Service.pdf",
+    "System Security/Lecture 4 - Malware1.pdf",
     "System Security/Lecture 3.pdf",
     "System Security/Lecture 2.pdf",
-    "System Security/Lecture 1.pdf",
-    "System Security/Introduction-to-Cryptography-small.pdf",
-    "System Security/Formal-Methods-for-Security.pdf",
-    "System Security/Computer Security Priniciples.pdf",
-    "Formal Methods/Lectures/lezione7.pdf",
-    "Formal Methods/Lectures/lezione8.pdf",
-    "Formal Methods/Lectures/lezione6.pdf",
-    "Formal Methods/Lectures/lezione5.pdf",
     "Formal Methods/Lectures/Operational Semantics and nonces of cooperation.md",
-    "Formal Methods/Lectures/lezione9.pdf",
     "Formal Methods/Lectures/Lecture 3.md",
     "Formal Methods/Lectures/Lecture 2.md",
     "Formal Methods/Lectures/Lecture 1.md",
@@ -245,8 +242,6 @@
     "Advanced Programming/Lectures/Lecture 15 Subtyping - Part I.md",
     "Advanced Programming/Lectures/Lecture 14 Lazy Evaluation.md",
     "Advanced Programming/Lectures/Lecture 13 Evaluation Strategies.md",
-    "Advanced Programming/Lectures/Lecture 12 Higher Order - Part II.md",
-    "Advanced Programming/Lectures/Lecture 11 Higher Order - Part I.md",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
