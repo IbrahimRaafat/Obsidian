@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Security/Lecture 1-2.pdf"
+                "file": "System Security/Lecture 0 Introduction-to-Cryptography-small.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 1-2"
+              "title": "Lecture 0 Introduction-to-Cryptography-small"
             }
           }
         ]
@@ -174,17 +174,17 @@
   },
   "active": "135835654911bcfb",
   "lastOpenFiles": [
+    "System Security/Computer Security Priniciples.pdf",
+    "System Security/Lecture 0 Introduction-to-Cryptography-small.pdf",
+    "System Security/Lecture 1 Introduction and Basic Concepts.pdf",
+    "System Security/Lecture 13- Formal-Methods-for-Security.pdf",
     "System Security/Lecture 12 Security-APIs.pdf",
+    "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
     "System Security/Lecture 11- Trusted-Computing.pdf",
     "System Security/Lecture 10 Operating-System-Security.pdf",
     "System Security/Lecture 9 Software-Security.pdf",
-    "System Security/Lecture 1 Introduction and Basic Concepts.pdf",
     "System Security/Lecture 2 User Authentication.pdf",
     "System Security/Lecture 3 Access Control.pdf",
-    "System Security/Introduction-to-Cryptography-small.pdf",
-    "System Security/Formal-Methods-for-Security.pdf",
-    "System Security/Computer Security Priniciples.pdf",
-    "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Q&A.md",
     "Untitled.canvas",
     "Types of Attacks.md",
