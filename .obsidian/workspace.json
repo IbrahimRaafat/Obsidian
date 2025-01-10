@@ -11,12 +11,14 @@
             "id": "8382f7560c3e0882",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "System Security/Lecture 12 Security-APIs.pdf"
+                "file": "Exams Calender.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 12 Security-APIs"
+              "icon": "lucide-file",
+              "title": "Exams Calender"
             }
           }
         ]
@@ -175,12 +177,12 @@
   },
   "active": "8382f7560c3e0882",
   "lastOpenFiles": [
+    "System Security/Lecture 12 Security-APIs.pdf",
     "System Security/Lecture 9 Software-Security.pdf",
     "System Security/Lecture 3 Access Control.pdf",
     "System Security/Lecture 2 User Authentication.pdf",
     "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Exam solutions.md",
-    "System Security/Lecture 12 Security-APIs.pdf",
     "System Security/Lecture 7- Database-Security.pdf",
     "System Security/Lecture 6- Denial-of-Service.pdf",
     "System Security/Security2021-01-14[1].pdf",
