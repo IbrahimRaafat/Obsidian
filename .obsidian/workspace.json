@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cf90cba912470a32",
+        "id": "08f1a329f07d03b1",
         "type": "tabs",
         "children": [
           {
-            "id": "8382f7560c3e0882",
+            "id": "cdc05bac7ecf173b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "System Security/Lecture 1-2 Secuirty Design Principles.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 1-2 Secuirty Design Principles"
-            }
-          },
-          {
-            "id": "38bdad2580003862",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "System Security/Lecture 10 Operating-System-Security.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 10 Operating-System-Security"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,9 +189,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "38bdad2580003862",
+  "active": "cdc05bac7ecf173b",
   "lastOpenFiles": [
     "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
+    "System Security/Lecture 10 Operating-System-Security.pdf",
     "System Security/Computer Security Priniciples.pdf",
     "System Security/Exam solutions.md",
     "System Security/Q&A.md",
@@ -222,7 +208,6 @@
     "System Security/Lecture 2 User Authentication.pdf",
     "System Security/Lecture 8- Intrusion-Detection.pdf",
     "System Security/Lecture 7- Database-Security.pdf",
-    "System Security/Security2021-01-14[1].pdf",
     "Software Architecture/Lectures/Lecture 1.md",
     "Advanced Programming/Lectures/Lecture 17 Subtyping and Inheritance.md",
     "Advanced Programming/Lectures/Lecture 15 Subtyping - Part I.md",
