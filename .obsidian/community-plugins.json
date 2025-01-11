@@ -3,7 +3,8 @@
   "obsidian-annotator",
   "dataview",
   "obsidian-extract-pdf-highlights",
-  "omnisearch",
   "ai-image-analyzer",
-  "text-extractor"
+  "text-extractor",
+  "omnisearch",
+  "obsidian-topic-linking"
 ]
