@@ -18,7 +18,7 @@
   "showExcerpt": true,
   "maxEmbeds": 5,
   "renderLineReturnInExcerpts": true,
-  "showCreateButton": false,
+  "showCreateButton": true,
   "highlight": true,
   "showPreviousQueryResults": true,
   "simpleSearch": true,

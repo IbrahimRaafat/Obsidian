@@ -11,10 +11,14 @@
             "id": "cdc05bac7ecf173b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Security/Types of Attacks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Types of Attacks"
             }
           }
         ]
@@ -189,8 +193,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cdc05bac7ecf173b",
+  "active": "135835654911bcfb",
   "lastOpenFiles": [
+    "System Security/Lecture 2 User Authentication.pdf",
+    "Advanced Programming/Lectures/Lecture 19 F-Bounded Parametrization.md",
     "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
     "System Security/Lecture 10 Operating-System-Security.pdf",
     "System Security/Computer Security Priniciples.pdf",
@@ -205,9 +211,7 @@
     "System Security/Lecture 12 Security-APIs.pdf",
     "System Security/Lecture 9 Software-Security.pdf",
     "System Security/Lecture 3 Access Control.pdf",
-    "System Security/Lecture 2 User Authentication.pdf",
     "System Security/Lecture 8- Intrusion-Detection.pdf",
-    "System Security/Lecture 7- Database-Security.pdf",
     "Software Architecture/Lectures/Lecture 1.md",
     "Advanced Programming/Lectures/Lecture 17 Subtyping and Inheritance.md",
     "Advanced Programming/Lectures/Lecture 15 Subtyping - Part I.md",
@@ -227,7 +231,6 @@
     "Applied Probability/1- Elementary Probability.md",
     "Advanced Programming/Lectures/Lecture 0.md",
     "git initialize.md",
-    "2024-12-17.md",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
