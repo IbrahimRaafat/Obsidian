@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60cc19413bc359cb",
+        "id": "2c970e5470ae1cee",
         "type": "tabs",
         "children": [
           {
-            "id": "0e8f2867c23fd0b1",
+            "id": "0c12672b614cd025",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -189,20 +193,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "135835654911bcfb",
+  "active": "0c12672b614cd025",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Formal Methods/Formal Methods.md",
+    "Definitions and Comparisions.md",
+    "Applied Probability/Untitled.md",
+    "Applied Probability/1- Elementary Probability.md",
+    "Exams Calender.md",
+    "Tags",
+    "Screenshot 2025-01-12 005029.png",
+    "Formal Methods/Lectures/lezione1.pdf",
     "white listing.md",
     "System Security/Lecture 9 Software-Security.pdf",
-    "Formal Methods/Lectures/lezione1.pdf",
-    "Screenshot 2025-01-12 005029.png",
-    "Untitled.md",
     "System Security/Lecture 7- Database-Security.pdf",
     "System Security/Screenshot 2025-01-12 005029.png",
     "Formal Methods/Lectures/Lecture 9.md",
     "Applied Probability/4- Introduction to Stochastic Processes.md",
     "Advanced Programming/Lectures/Lecture 8 Algebraic Data Types.md",
     "Advanced Programming/Lectures/Lecture 11 Higher Order - Part I.md",
-    "Definitions and Comparisions.md",
     "Formal Methods/Lectures/Lecture 2.md",
     "Applied Probability/5- Poisson Process.md",
     "securtiy api.md",
@@ -216,9 +225,7 @@
     "Advanced Programming/Lectures/Lecture 19 F-Bounded Parametrization.md",
     "System Security/Lecture 10 Operating-System-Security.pdf",
     "System Security/Exam solutions.md",
-    "System Security/Lecture 6- Denial-of-Service.pdf",
     "A.md",
-    "Exams Calender.md",
     "Software Architecture/Lectures/Lecture 1.md",
     "Advanced Programming/Lectures/Lecture 17 Subtyping and Inheritance.md",
     "Advanced Programming/Lectures/Lecture 15 Subtyping - Part I.md",
@@ -227,8 +234,6 @@
     "Software Architecture/Lectures/Lecture 2.md",
     "Untitled.canvas",
     "honeypot.md",
-    "Formal Methods/Lectures/Operational Semantics and nonces of cooperation.md",
-    "Formal Methods/Lectures/Lecture 3.md",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
