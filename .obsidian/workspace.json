@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3bdc56225f7629a9",
+        "id": "60cc19413bc359cb",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1f593001762257",
+            "id": "0e8f2867c23fd0b1",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot 2025-01-12 005029.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-01-12 005029"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,11 +189,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9d1f593001762257",
+  "active": "135835654911bcfb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "white listing.md",
     "System Security/Lecture 9 Software-Security.pdf",
+    "Formal Methods/Lectures/lezione1.pdf",
     "Screenshot 2025-01-12 005029.png",
+    "Untitled.md",
     "System Security/Lecture 7- Database-Security.pdf",
     "System Security/Screenshot 2025-01-12 005029.png",
     "Formal Methods/Lectures/Lecture 9.md",
@@ -217,7 +217,6 @@
     "System Security/Lecture 10 Operating-System-Security.pdf",
     "System Security/Exam solutions.md",
     "System Security/Lecture 6- Denial-of-Service.pdf",
-    "System Security/Lecture 13- Formal-Methods-for-Security.pdf",
     "A.md",
     "Exams Calender.md",
     "Software Architecture/Lectures/Lecture 1.md",
@@ -230,7 +229,6 @@
     "honeypot.md",
     "Formal Methods/Lectures/Operational Semantics and nonces of cooperation.md",
     "Formal Methods/Lectures/Lecture 3.md",
-    "Formal Methods/Lectures/Lecture 1.md",
     "System Security/Pasted image 20241123002534.jpg",
     "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
