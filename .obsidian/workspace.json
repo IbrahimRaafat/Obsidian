@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2c970e5470ae1cee",
+        "id": "1e167384b834740a",
         "type": "tabs",
         "children": [
           {
-            "id": "0c12672b614cd025",
+            "id": "921d87217672401e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Software Performance & Scalability/Lecture 3.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lecture 3"
             }
           }
         ]
@@ -35,24 +36,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "135835654911bcfb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "9b2e8012805b3ea0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "black",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,20 +53,24 @@
             }
           },
           {
-            "id": "62baa776e75d32c0",
+            "id": "b89a97f1db43871a",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 321.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -88,71 +81,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a76f1c79245b19c6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Link1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Link1"
-            }
-          },
-          {
-            "id": "80d062b9a2eadc1d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Link1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Link1"
-            }
-          },
-          {
             "id": "ac21e7c32d8b0a2e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "076f79fa06d14e15",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Link1.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Link1"
-            }
-          },
-          {
-            "id": "46af4703a3508390",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -168,74 +108,80 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "504cfb1f8affda8d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false
+      "random-note:Open random note": false
     }
   },
-  "active": "0c12672b614cd025",
+  "active": "921d87217672401e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Formal Methods/Formal Methods.md",
-    "Definitions and Comparisions.md",
-    "Applied Probability/Untitled.md",
-    "Applied Probability/1- Elementary Probability.md",
-    "Exams Calender.md",
-    "Tags",
-    "Screenshot 2025-01-12 005029.png",
-    "Formal Methods/Lectures/lezione1.pdf",
-    "white listing.md",
-    "System Security/Lecture 9 Software-Security.pdf",
-    "System Security/Lecture 7- Database-Security.pdf",
-    "System Security/Screenshot 2025-01-12 005029.png",
-    "Formal Methods/Lectures/Lecture 9.md",
-    "Applied Probability/4- Introduction to Stochastic Processes.md",
-    "Advanced Programming/Lectures/Lecture 8 Algebraic Data Types.md",
-    "Advanced Programming/Lectures/Lecture 11 Higher Order - Part I.md",
+    "Software Architecture/Online Tutorials/Docker notes.md",
     "Formal Methods/Lectures/Lecture 2.md",
-    "Applied Probability/5- Poisson Process.md",
-    "securtiy api.md",
-    "System Security/Lecture 1-2 Secuirty Design Principles.pdf",
-    "System Security/Computer Security Priniciples.pdf",
-    "System Security/Lecture 0 Introduction-to-Cryptography-small.pdf",
-    "System Security/Lecture 3 Access Control.pdf",
-    "System Security/Q&A.md",
-    "System Security/Types of Attacks.md",
-    "System Security/Lecture 2 User Authentication.pdf",
-    "Advanced Programming/Lectures/Lecture 19 F-Bounded Parametrization.md",
-    "System Security/Lecture 10 Operating-System-Security.pdf",
-    "System Security/Exam solutions.md",
-    "A.md",
-    "Software Architecture/Lectures/Lecture 1.md",
-    "Advanced Programming/Lectures/Lecture 17 Subtyping and Inheritance.md",
-    "Advanced Programming/Lectures/Lecture 15 Subtyping - Part I.md",
-    "Advanced Programming/Lectures/Lecture 10 Lists and Collections.md",
-    "Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
-    "Software Architecture/Lectures/Lecture 2.md",
+    "Formal Methods/Strong Equivelance/Guide.md",
+    "Software Performance & Scalability/Lecture 3 notes.md",
+    "Software Performance & Scalability/Media/Pasted image 20250217094606.png",
+    "Software Performance & Scalability/Media",
+    "Software Performance & Scalability/Media/Pasted image 20250217092145.png",
+    "Software Performance & Scalability/Media/Pasted image 20250217091302.png",
+    "Software Performance & Scalability/PDFs/3-queueing.pdf",
+    "Software Performance & Scalability/PDFs",
+    "Software Performance & Scalability/PDFs/2-methodology.pdf",
+    "Software Performance & Scalability/Lecture 3.md",
+    "Software Performance & Scalability/PDFs/1-introduction.pdf",
+    "Zein Universities/ZEIN UNIVERSITIES.md",
+    "Drafting Tools.md",
+    "Zein Universities.rar",
+    "Zein Universities/Pasted image 20250203222504.png",
+    "Zein Universities/Pasted image 20250125192416.png",
+    "Zein Universities/Pasted image 20250128204026.png",
+    "Zein Universities/Pasted image 20250128204026.png.md",
+    "Zein Universities/Pasted image 20250131203029.png",
+    "Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
+    "Second Semester Courses.md",
+    "Italian A1/materiale_12_02-20250214/identita_ok.png",
+    "Italian A1/materiale_12_02-20250214/dai_lezione_1.pdf",
+    "Italian A1/materiale_12_02-20250214/Corso di lingua italiana livello A1 - gruppo 1 - a.a. 2024_25 12_02_2025, 19_11__Pagina 1-[1739384867017].pdf",
+    "Italian A1/materiale_12_02-20250214/Corso di lingua italiana livello A1 - gruppo 1 - a.a. 2024_25 12_02_2025, 18_31__Pagina 1-[1739381783086].pdf",
+    "Italian A1/materiale_12_02-20250214/Corso di lingua italiana livello A1 - gruppo 1 - a.a. 2024_25 12_02_2025, 18_02__Pagina 1-[1739381386995].pdf",
+    "Italian/materiale_12_02-20250214/identita_ok.png",
+    "materiale_12_02-20250214/identita_ok.png",
+    "Tailwind Notes.md",
+    "Personal Branding.md",
+    "Passive Income.md",
+    "Web Security/Lectures/Lecture 1 (Introduction).md",
+    "NIMUN practice.md",
+    "Lesson 1.md",
+    "Projects List.md",
+    "To To/To Study.md",
+    "To To/To Read.md",
+    "To To/To Links/Optimizing Websites.md",
+    "To To/To Behance.md",
+    "To To/To Learn.md",
+    "To To/To Projects.md",
+    "Exams Calender.md",
+    "SAAS Ideas.md",
+    "SAAS Stacks.md",
     "Untitled.canvas",
-    "honeypot.md",
-    "System Security/Pasted image 20241123002534.jpg",
-    "System Security/Pasted image 20241122185249.png",
     "Untitled 1.canvas"
   ]
 }

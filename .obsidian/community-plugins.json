@@ -1,10 +1,6 @@
 [
-  "obsidian-git",
-  "obsidian-annotator",
   "dataview",
-  "obsidian-extract-pdf-highlights",
-  "ai-image-analyzer",
-  "text-extractor",
-  "omnisearch",
-  "obsidian-topic-linking"
+  "calendar",
+  "obsidian-annotator",
+  "obsidian-git"
 ]
