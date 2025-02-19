@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "591f6e089bc5c8d3",
-        "type": "tabs",
+        "id": "1cf4a5f969e1f42d",
+        "type": "split",
         "children": [
           {
-            "id": "2f8b421e24814758",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+            "id": "591f6e089bc5c8d3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f8b421e24814758",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Semester 2/Software Correctness/PDFs/Lecture 4 - Static Analysis with LiSA.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Lecture 4 - Static Analysis with LiSA"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ef78651be6ea8dee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da286f2bb5def8a4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Semester 2/Software Correctness/PDFs/Lecture 4 - Static Analysis with LiSA.pdf"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Lecture 4 - Static Analysis with LiSA"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -129,8 +156,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b89a97f1db43871a",
+  "active": "2f8b421e24814758",
   "lastOpenFiles": [
+    "Semester 2/Software Correctness/Lecture 4 Lisa.md",
+    "Semester 2/Software Correctness/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
+    "Semester 2/Software Correctness/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Performance & Scalability/Lecture 3.md",
     "Semester 2/Software Correctness/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Security/Lecture 2.md",
@@ -145,10 +175,8 @@
     "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/dai_lezione_1.pdf",
     "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/saluti_ripasso.pdf",
     "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/Corso di lingua italiana livello A1 - gruppo 1 - a.a. 2024_25 10_02_2025, 19_03__Pagina 1-[1739212083571].pdf",
-    "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/Corso di lingua italiana livello A1 - gruppo 1 - a.a. 2024_25 10_02_2025, 18_26__Pagina 1-[1739210087884].pdf",
     "Drafting Tools.md",
     "Semester 2/Software Correctness/Lecture 1 Introduction.md",
-    "Semester 2/Software Correctness/Lecture 3 Algebraic Structures.md",
     "Semester 1/Software Architecture/Online Tutorials/Docker notes.md",
     "Semester 1/Formal Methods/Lectures/Lecture 2.md",
     "Semester 1/Formal Methods/Strong Equivelance/Guide.md",
@@ -175,7 +203,6 @@
     "Projects List.md",
     "To To/To Study.md",
     "To To/To Read.md",
-    "To To/To Links/Optimizing Websites.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
