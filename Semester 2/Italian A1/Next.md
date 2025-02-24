@@ -1,1 +1,0 @@
-accanto a - Next to
