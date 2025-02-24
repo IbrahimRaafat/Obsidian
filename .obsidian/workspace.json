@@ -11,12 +11,15 @@
             "id": "2f8b421e24814758",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Software Performance & Scalability/PDFs/Notes_on_the_course.pdf"
+                "file": "Semester 2/Italian A1/Common Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Notes_on_the_course"
+              "icon": "lucide-file",
+              "title": "Common Questions"
             }
           }
         ]
@@ -131,34 +134,35 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b89a97f1db43871a",
+  "active": "2f8b421e24814758",
   "lastOpenFiles": [
-    "Semester 2/Software Performance & Scalability/Random.md",
+    "Semester 2/Italian A1/Verbs & Cojucations.md",
+    "Semester 2/Italian A1/Common Questions.md",
+    "Semester 2/Second Semester Courses.md",
+    "Semester 2/Cloud Computing and Distributed Systems",
+    "Semester 1/Development Methodlogies",
     "Semester 2/Software Performance & Scalability/PDFs/Notes_on_the_course.pdf",
+    "Semester 2/Software Performance & Scalability/Random.md",
     "Semester 2/Italian A1/Next.md",
     "Semester 2/Italian A1/preposizioni articolate.md",
     "Semester 2/Italian A1/Numbers.md",
     "Pasted image 20250219174345.png",
-    "Semester 2/Italian A1/Verbs & Cojucations.md",
     "Pasted image 20250219174340.png",
-    "Semester 2/Software Correctness/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
-    "Semester 2/Software Correctness/Lecture 4 Lisa.md",
-    "Semester 2/Software Correctness/Lecture 3 Algebraic Structures.md",
+    "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
+    "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
+    "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Performance & Scalability/Lecture 3.md",
-    "Semester 2/Software Correctness/Lecture 2 Std in software quality assurance.md",
+    "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Security/Lecture 2.md",
     "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
     "Semester 2/Software Security/PDFs/CM0626-01-intro.pdf",
     "Semester 2/Software Security/PDFs",
-    "Semester 2/Second Semester Courses.md",
     "Semester 2/Software Security.md",
     "Semester 2/Software Security",
     "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/dieci_a1_unita_1.pdf",
-    "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/dai_lezione_1.pdf",
-    "Semester 2/Italian A1/materiale prima lezione_10_02-20250214/saluti_ripasso.pdf",
     "Drafting Tools.md",
-    "Semester 2/Software Correctness/Lecture 1 Introduction.md",
+    "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
     "Semester 1/Software Architecture/Online Tutorials/Docker notes.md",
     "Semester 1/Formal Methods/Lectures/Lecture 2.md",
     "Semester 1/Formal Methods/Strong Equivelance/Guide.md",
