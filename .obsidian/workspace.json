@@ -11,14 +11,12 @@
             "id": "a72426f925e3a6b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Study Status.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Study Status"
+              "icon": "lucide-file-text",
+              "title": "03_slides_S"
             }
           }
         ]
@@ -170,8 +168,14 @@
   },
   "active": "a72426f925e3a6b2",
   "lastOpenFiles": [
-    "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
     "Study Status.md",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs",
+    "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
     "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
     "Semester 2/Software Correctness, security and reliability/PDFs/3-2025_SCSR_03.pdf",
@@ -181,13 +185,10 @@
     "Semester 2/Software Security/PDFs/IntelCodeTable(3).pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
-    "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
     "Semester 2/Italian A1/images/Pasted image 20250219174340.png",
     "Semester 2/Italian A1/images/Pasted image 20250219174345.png",
-    "Semester 2/Italian A1/images",
     "Semester 2/Italian A1/images/Pasted image 20250224194203.png",
     "Drafting Tools.md",
-    "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis 1.pdf",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Second Semester Courses.md",
     "Semester 2/Italian A1/Homework.md",
@@ -200,14 +201,11 @@
     "Semester 2/Italian A1/preposizioni articolate.md",
     "Semester 2/Italian A1/Next.md",
     "Semester 2/Italian A1/Indefinite Articles.md",
-    "Semester 2/Cloud Computing and Distributed Systems",
-    "Semester 1/Development Methodlogies",
     "Semester 2/Software Performance & Scalability/Random.md",
     "Semester 2/Software Performance & Scalability/Lecture 3.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Security.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
-    "Semester 1/Software Architecture/Online Tutorials/Docker notes.md",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217094606.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217092145.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217091302.png",
