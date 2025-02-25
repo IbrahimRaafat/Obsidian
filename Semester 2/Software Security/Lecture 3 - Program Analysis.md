@@ -9,3 +9,4 @@ annotation-target: "![[CM0626-02-Program-analysis.pdf]]"
 2. A basic block consists of the instructions from a leader up to, but not  
 	including, the next leader.  
 3. Add an edge A → B if A ends with a branch to B or can fall through to B.  
+
