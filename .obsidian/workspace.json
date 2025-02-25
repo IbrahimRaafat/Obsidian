@@ -11,12 +11,15 @@
             "id": "a72426f925e3a6b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf"
+                "file": "Study Status.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "CM0626-labs-reveng-ghidra"
+              "icon": "lucide-file",
+              "title": "Study Status"
             }
           }
         ]
@@ -60,6 +63,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "97193db131d78e08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -115,6 +128,25 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "a1b8f724d60eb705",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study Status.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Study Status"
+            }
           }
         ]
       }
@@ -128,15 +160,22 @@
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "publish:Publish changes...": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false
     }
   },
   "active": "a72426f925e3a6b2",
   "lastOpenFiles": [
+    "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf",
+    "Study Status.md",
     "Semester 2/Software Security/Lecture 3 - Program Analysis.md",
     "Semester 2/Software Security/Lecture 4 Reverse Engineering with Ghidra.md",
     "Semester 2/Software Security/PDFs/IntelCodeTable(3).pdf",
-    "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
@@ -170,7 +209,6 @@
     "Semester 2/Software Security.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
     "Semester 1/Software Architecture/Online Tutorials/Docker notes.md",
-    "Semester 1/Formal Methods/Lectures/Lecture 2.md",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217094606.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217092145.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217091302.png",
