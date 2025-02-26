@@ -11,12 +11,14 @@
             "id": "a72426f925e3a6b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Italian A1/images/Pasted image 20250224194203 1.png"
+                "file": "Semester 2/Italian A1/Common Verbs & Cojucations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250224194203 1"
+              "icon": "lucide-file",
+              "title": "Common Verbs & Cojucations"
             }
           }
         ]
@@ -168,8 +170,19 @@
   },
   "active": "a72426f925e3a6b2",
   "lastOpenFiles": [
-    "Semester 2/Italian A1/images/Pasted image 20250224194203.png",
+    "Semester 2/Italian A1/26-2-2025/presente_ind_.pdf",
+    "Semester 2/Italian A1/26-2-2025/presente_ind_.pdf.zmdownload",
+    "Semester 2/Italian A1/Numbers.md",
+    "Semester 2/Italian A1/Verb Types.md",
+    "Semester 2/Italian A1/Articles and Prepositions.md",
+    "Semester 2/Italian A1/26-2-2025/Group Activity.md",
+    "Pasted image 20250226180307.png",
+    "Semester 2/Italian A1/26-2-2025/mestieri_nomi_luoghi.pdf",
     "Semester 2/Italian A1/images/Pasted image 20250224194203 1.png",
+    "Semester 2/Italian A1/26-2-2025/mestieri_nomi_luoghi.pdf.zmdownload",
+    "Semester 2/Italian A1/26-2-2025",
+    "Semester 2/Italian A1/New folder",
+    "Semester 2/Italian A1/images/Pasted image 20250224194203.png",
     "Semester 2/Italian A1/images/Pasted image 20250219174345.png",
     "Semester 2/Italian A1/images/Pasted image 20250219174340.png",
     "Semester 2/Italian A1/Homework.md",
@@ -182,23 +195,15 @@
     "Semester 2/Cloud Computing and Distributed Systems/PDFs",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
-    "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
-    "Semester 2/Software Correctness, security and reliability/PDFs/3-2025_SCSR_03.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf",
     "Semester 2/Software Security/Lecture 3 - Program Analysis.md",
     "Semester 2/Software Security/Lecture 4 Reverse Engineering with Ghidra.md",
-    "Semester 2/Software Security/PDFs/IntelCodeTable(3).pdf",
-    "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Drafting Tools.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Second Semester Courses.md",
-    "Semester 2/Italian A1/Verb Types.md",
-    "Semester 2/Italian A1/Numbers.md",
     "Semester 2/Italian A1/Prepositions.md",
     "Semester 2/Italian A1/Main Elements.md",
     "Semester 2/Italian A1/Common Questions.md",
-    "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/preposizioni articolate.md",
     "Semester 2/Italian A1/Next.md",
     "Semester 2/Italian A1/Indefinite Articles.md",
@@ -206,14 +211,11 @@
     "Semester 2/Software Performance & Scalability/Lecture 3.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Security.md",
-    "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217094606.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217092145.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217091302.png",
     "Zein Universities/Pasted image 20250203222504.png",
     "Zein Universities/Pasted image 20250125192416.png",
-    "Zein Universities/Pasted image 20250128204026.png",
-    "Zein Universities/Pasted image 20250131203029.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
