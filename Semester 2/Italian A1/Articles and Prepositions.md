@@ -47,3 +47,11 @@ Below you can see how we form the "preposizioni articolate” for the prepositio
 | **I**   | dai    | ai    |
 | **GLI** | dagli  | agli  |
 | **LE**  | dalle  | alle  |
+
+
+| Studio italiano **da** quattro anni. (I've been studying Italian for 4 years.)                |
+| --------------------------------------------------------------------------------------------- |
+| Inizio a lavorare **alle** due. (I start work at two.)                                        |
+| La scuola è aperta **dal** lunedì **al** venerdì. (The school is open from Monday to Friday.) |
+| Vado in Croazia **per** tre settimane. (I'm going to Croatia for three weeks.)                |
+| Inizio a lavorare **tra** due ore. (I'm starting work in two hours.)                          |
