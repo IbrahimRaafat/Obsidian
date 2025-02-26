@@ -11,12 +11,12 @@
             "id": "a72426f925e3a6b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf"
+                "file": "Semester 2/Italian A1/images/Pasted image 20250224194203 1.png"
               },
-              "icon": "lucide-file-text",
-              "title": "03_slides_S"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250224194203 1"
             }
           }
         ]
@@ -168,8 +168,13 @@
   },
   "active": "a72426f925e3a6b2",
   "lastOpenFiles": [
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S.pdf",
+    "Semester 2/Italian A1/images/Pasted image 20250224194203.png",
+    "Semester 2/Italian A1/images/Pasted image 20250224194203 1.png",
+    "Semester 2/Italian A1/images/Pasted image 20250219174345.png",
+    "Semester 2/Italian A1/images/Pasted image 20250219174340.png",
+    "Semester 2/Italian A1/Homework.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
@@ -185,13 +190,9 @@
     "Semester 2/Software Security/PDFs/IntelCodeTable(3).pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
-    "Semester 2/Italian A1/images/Pasted image 20250219174340.png",
-    "Semester 2/Italian A1/images/Pasted image 20250219174345.png",
-    "Semester 2/Italian A1/images/Pasted image 20250224194203.png",
     "Drafting Tools.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Second Semester Courses.md",
-    "Semester 2/Italian A1/Homework.md",
     "Semester 2/Italian A1/Verb Types.md",
     "Semester 2/Italian A1/Numbers.md",
     "Semester 2/Italian A1/Prepositions.md",
