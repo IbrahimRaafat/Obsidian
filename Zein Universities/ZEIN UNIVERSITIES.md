@@ -1,6 +1,6 @@
 # Ca Foscari Venice: -**Deadline**: 20/2/2025
 
-- [ ] [Global Development and Entrepreneurship](https://apply.unive.it/courses/course/442-ma-global-development-and-entrepreneurship?search=1727205)
+- [x] [Global Development and Entrepreneurship](https://apply.unive.it/courses/course/442-ma-global-development-and-entrepreneurship?search=1727205)
 
 
 # Sapienza Roma: -**Deadline**: 29/4/2025 

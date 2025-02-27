@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d138d04994ecb191",
+        "id": "0c36a5fca9e591cd",
         "type": "tabs",
         "children": [
           {
-            "id": "a72426f925e3a6b2",
+            "id": "72c6f4f378fa636a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Italian A1/Articles and Prepositions.md",
+                "file": "Zein Universities/ZEIN UNIVERSITIES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articles and Prepositions"
+              "title": "ZEIN UNIVERSITIES"
             }
           }
         ]
@@ -179,15 +179,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a72426f925e3a6b2",
+  "active": "72c6f4f378fa636a",
   "lastOpenFiles": [
+    "Semester 1/Applied Probability/3_Common_Distributions.pdf",
+    "Semester 1/Applied Probability/2- Random Variables and Distributions.md",
+    "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf",
+    "Semester 1/Applied Probability/1_Elementary_Probability.pdf",
+    "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Italian A1/Homework.md",
     "Semester 2/Italian A1/Main Elements.md",
     "Semester 2/Italian A1/Verb Types.md",
     "Semester 2/Italian A1/Numbers.md",
-    "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/26-2-2025/Come Stai-Come Va.md",
     "Pasted image 20250226191401.png",
     "Semester 2/Italian A1/26-2-2025/Homework.md",
@@ -206,8 +210,6 @@
     "Semester 2/Italian A1/images/Pasted image 20250219174340.png",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
     "Study Status.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
@@ -222,7 +224,6 @@
     "Semester 2/Italian A1/Next.md",
     "Semester 2/Italian A1/Indefinite Articles.md",
     "Semester 2/Software Performance & Scalability/Random.md",
-    "Semester 2/Software Performance & Scalability/Lecture 3.md",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217094606.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217092145.png",
     "Semester 2/Software Performance & Scalability/Media/Pasted image 20250217091302.png",
