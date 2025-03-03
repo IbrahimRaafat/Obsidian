@@ -6,10 +6,10 @@
 
 # Software Performance and Scalability:
 - [ ] [02/24/2025](https://unive.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fb8eb590-654c-402b-ad61-b28e009b4aee)
-
-
+- [ ] [27/2/2025](https://unive.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3623e007-7b81-478e-8c10-b291009f3269)
+- [ ] [3/3/2025](https://unive.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=84bd08ed-7fd6-4a3c-b71c-b295009e38c0)
 # Software Security:
-- We're good :)
+- [Attack Modelling 28/2/2025](https://unive.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dcb8f895-dd57-47fb-ab00-b29200bcc8e5)
 
 # Software Correctness, security and reliability:
 - [Lecture 3 Algebric Structures](obsidian://open?vault=University&file=Semester%202%2FSoftware%20Correctness%2C%20security%20and%20reliability%2FLecture%203%20Algebraic%20Structures)
@@ -17,6 +17,9 @@
 - Lecture 5 
 # Web Security:
 -  We're good :) *We can just revise[*JS lecture*](obsidian://open?vault=University&file=Semester%202%2FWeb%20Security%2FLectures%2FLecture%202%20(HTML%2C%20JS%20%26%20Web%20Attacks)) 
+-  Assignment 1: Broken access control and logic flaws 
+- 
+
 
 # Applied Probability
 - All Lectures
