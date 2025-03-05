@@ -23,12 +23,14 @@
             "id": "c5abf3368b471d66",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md"
+                "file": "Semester 2/Italian A1/Articles and Prepositions.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 Algebraic Structures"
+              "title": "Articles and Prepositions"
             }
           }
         ],
@@ -192,6 +194,7 @@
   },
   "active": "c5abf3368b471d66",
   "lastOpenFiles": [
+    "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
     "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
     "Study Status.md",
@@ -225,7 +228,6 @@
     "Semester 2/Italian A1/images/Pasted image 20250219174345.png",
     "Semester 2/Italian A1/images/Pasted image 20250219174340.png",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
-    "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
     "Semester 2/Software Security/Lecture 3 - Program Analysis.md",
     "Semester 2/Software Security/Lecture 4 Reverse Engineering with Ghidra.md",
