@@ -111,6 +111,18 @@ Consider the set S={1,2,3,4,6}S = \{1, 2, 3, 4, 6\} with divisibility relation:
 - **LUB of (2,3)**: **does not exist** because neither 4 nor 6 is the smallest upper bound.
 - Since not every pair has a LUB, this is **not a lattice**.
 
+## Complete Lattice
+
+A **complete lattice** is a poset in which **every** subset (not just pairs) has both a **least upper bound (supremum)** and a **greatest lower bound (infimum)**.
+
+### Example of a Complete Lattice:
+
+- The power set of any set, ordered by set inclusion ⊆\subseteq, forms a complete lattice because every subset has a union (LUB) and an intersection (GLB).
+
+### Example of a Non-Complete Lattice:
+
+- The set of natural numbers N\mathbb{N} with divisibility as the ordering is not a complete lattice because some subsets do not have a LUB within N\mathbb{N} (e.g., {3,5} has no LUB in N\mathbb{N}).
+
 ## Usage
 
 Partial orderings are useful for structuring elements that do not have a natural total order. Examples include:
