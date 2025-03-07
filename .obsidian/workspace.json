@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a9478af3cd8a17",
+        "id": "65b93fbcc779fc62",
         "type": "tabs",
         "children": [
           {
-            "id": "2dc20a5ab79cae8c",
+            "id": "120f52b9589c201b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 2/Web Security/Assignments/Unprotected admin functionality with unpredictable URL.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Web Security/PDFs/fixation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Unprotected admin functionality with unpredictable URL"
+              "icon": "lucide-file-text",
+              "title": "fixation"
             }
           }
         ]
@@ -179,9 +177,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2dc20a5ab79cae8c",
+  "active": "120f52b9589c201b",
   "lastOpenFiles": [
-    "Semester 2/Web Security/Assignments/High-level logic vulnerability.md",
+    "Semester 2/Web Security/PDFs/sessions.pdf",
+    "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
+    "Semester 2/Web Security/Assignments/Assign. 1/High-level logic vulnerability.md",
+    "Semester 2/Web Security/Assignments/Assign. 2",
+    "Semester 2/Web Security/Assignments/Untitled.md",
+    "Semester 2/Web Security/Assignments/Assign. 1",
+    "Semester 2/Web Security/Assignments/Untitled.canvas",
+    "Semester 2/Web Security/Lectures/Lecture 4 (cont. php session).md",
+    "Semester 2/Web Security/PDFs/html-js.pdf",
+    "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
+    "Semester 2/Web Security/PDFs/fixation.pdf",
+    "Semester 2/Web Security/PDFs/server-basic.pdf",
+    "Semester 2/Web Security/PDFs/intro 1.pdf",
+    "Semester 2/Web Security/Assignments/Assign. 1/Unprotected admin functionality with unpredictable URL.md",
     "Pasted image 20250307043558.png",
     "Pasted image 20250307043457.png",
     "Pasted image 20250307043238.png",
@@ -189,14 +200,12 @@
     "Pasted image 20250307042942.png",
     "Pasted image 20250307042747.png",
     "Pasted image 20250307042643.png",
-    "Semester 2/Web Security/Assignments/Unprotected admin functionality with unpredictable URL.md",
     "Pasted image 20250307041700.png",
     "Pasted image 20250307041556.png",
     "Pasted image 20250307041316.png",
     "Semester 2/Web Security/Assignments",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Study Status.md",
-    "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
     "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
@@ -204,8 +213,6 @@
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Semester 1/Applied Probability/3_Common_Distributions.pdf",
     "Semester 1/Applied Probability/2- Random Variables and Distributions.md",
-    "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf",
-    "Semester 1/Applied Probability/1_Elementary_Probability.pdf",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Italian A1/Homework.md",
@@ -214,18 +221,10 @@
     "Semester 2/Italian A1/Numbers.md",
     "Semester 2/Italian A1/26-2-2025/Come Stai-Come Va.md",
     "Semester 2/Italian A1/26-2-2025/Homework.md",
-    "Semester 2/Italian A1/26-2-2025/presente_ind_.pdf",
-    "Semester 2/Italian A1/26-2-2025/presente_ind_.pdf.zmdownload",
     "Semester 2/Italian A1/26-2-2025/Group Activity.md",
-    "Semester 2/Italian A1/26-2-2025/mestieri_nomi_luoghi.pdf",
-    "Semester 2/Italian A1/26-2-2025/mestieri_nomi_luoghi.pdf.zmdownload",
-    "Semester 2/Italian A1/26-2-2025",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
     "Semester 2/Software Security/Lecture 3 - Program Analysis.md",
-    "Semester 2/Software Security/Lecture 4 Reverse Engineering with Ghidra.md",
-    "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
-    "Semester 2/Second Semester Courses.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
