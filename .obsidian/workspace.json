@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Web Security/Assignments/High-level logic vulnerability.md",
+                "file": "Semester 2/Web Security/Assignments/Unprotected admin functionality with unpredictable URL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High-level logic vulnerability"
+              "title": "Unprotected admin functionality with unpredictable URL"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "2dc20a5ab79cae8c",
   "lastOpenFiles": [
+    "Semester 2/Web Security/Assignments/High-level logic vulnerability.md",
     "Pasted image 20250307043558.png",
     "Pasted image 20250307043457.png",
     "Pasted image 20250307043238.png",
@@ -192,8 +193,6 @@
     "Pasted image 20250307041700.png",
     "Pasted image 20250307041556.png",
     "Pasted image 20250307041316.png",
-    "Pasted image 20250307041249.png",
-    "Semester 2/Web Security/Assignments/High-level logic vulnerability.md",
     "Semester 2/Web Security/Assignments",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Study Status.md",
