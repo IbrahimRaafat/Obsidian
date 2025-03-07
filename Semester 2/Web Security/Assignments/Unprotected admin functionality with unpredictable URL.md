@@ -14,6 +14,9 @@ Solve the lab by accessing the admin panel, and using it to delete the user `ca
 ![[Pasted image 20250307041316.png]]
 
 
+
+
+
 ## Step 3:
 - When we manually paste this route after the main URL we find that we are redirected to the admin page and we can delete users
 ![[Pasted image 20250307041556.png]]
