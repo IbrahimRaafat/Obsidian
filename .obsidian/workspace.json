@@ -11,12 +11,14 @@
             "id": "120f52b9589c201b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Software Correctness, security and reliability/PDFs/3-2025_SCSR_03.pdf"
+                "file": "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3-2025_SCSR_03"
+              "icon": "lucide-file",
+              "title": "Lecture 3 Algebraic Structures"
             }
           }
         ]
@@ -179,6 +181,8 @@
   },
   "active": "120f52b9589c201b",
   "lastOpenFiles": [
+    "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
+    "Semester 2/Software Correctness, security and reliability/PDFs/3-2025_SCSR_03.pdf",
     "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
@@ -212,7 +216,6 @@
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Drafting Tools.md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
-    "Semester 1/Applied Probability/3_Common_Distributions.pdf",
     "Semester 1/Applied Probability/2- Random Variables and Distributions.md",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
