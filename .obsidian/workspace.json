@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Session Fixation Solution"
             }
+          },
+          {
+            "id": "c13291dca389873f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Web Security/PDFs/fixation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "fixation"
+            }
           }
         ]
       }
@@ -181,9 +193,19 @@
   },
   "active": "4fe3114a2f073101",
   "lastOpenFiles": [
-    "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
-    "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
+    "Pasted image 20250309002732.png",
+    "Pasted image 20250309002731.png",
+    "Pasted image 20250309001857.png",
+    "Pasted image 20250309001852.png",
+    "Pasted image 20250309001644.png",
+    "Pasted image 20250309001629.png",
+    "Pasted image 20250309001608.png",
+    "Pasted image 20250309001207.png",
+    "Pasted image 20250309001143.png",
+    "Pasted image 20250309001022.png",
     "Semester 2/Web Security/PDFs/fixation.pdf",
+    "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
+    "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Correctness, security and reliability/PDFs/3-2025_SCSR_03.pdf",
@@ -204,15 +226,6 @@
     "Semester 2/Web Security/PDFs/intro 1.pdf",
     "Semester 2/Web Security/Assignments/Assign. 1/Unprotected admin functionality with unpredictable URL.md",
     "Pasted image 20250307043558.png",
-    "Pasted image 20250307043457.png",
-    "Pasted image 20250307043238.png",
-    "Pasted image 20250307043207.png",
-    "Pasted image 20250307042942.png",
-    "Pasted image 20250307042747.png",
-    "Pasted image 20250307042643.png",
-    "Pasted image 20250307041700.png",
-    "Pasted image 20250307041556.png",
-    "Pasted image 20250307041316.png",
     "Semester 2/Web Security/Assignments",
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Drafting Tools.md",
@@ -227,7 +240,6 @@
     "Semester 2/Italian A1/26-2-2025/Come Stai-Come Va.md",
     "Semester 2/Italian A1/26-2-2025/Homework.md",
     "Semester 2/Italian A1/26-2-2025/Group Activity.md",
-    "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
