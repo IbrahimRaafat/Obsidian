@@ -1,34 +1,25 @@
 # Attack Steps
 
-## Step 1:
+## **Step 1:**
 - Attacker opens his session and gets the session ID from the url
-- ![[Pasted image 20250309001022.png]]
-## Step 2:
+![[Pasted image 20250309001022.png]]
+## **Step 2:**
 - Attacker forces the victim to use the url with the same session id **(in this example we just copy the URL from the browser to another incognito browser)
  ![[Pasted image 20250309001143.png]]
 ## Step 3:
 - Victim enters his credentials to access his profile
 ![[Pasted image 20250309001629.png]]
-## Step 4:
+## **Step 4:**
 - When the attacker refreshes he enters the same profile as it still has the same session id
 ![[Pasted image 20250309001644.png]]
-
-
-
-
-
-
-
-
-
-
 # Vulnerability fix:
 
 ## Current logic
 
 - The fix will be here in the login route where the session logic takes place
 - we see that if the `session_id` variable is defined in sessions dictionary, it redirects us to `login_success` page, else it says `login_failed` page
-- What we want to really do is to change the session id after the authentication that happens in line 39 in this way even when the attacker refreshes he will not enter the session as the victim will have a new session id which the attacker have no access to.![[Pasted image 20250309001857.png]]
+- What we want to really do is to change the session id after the authentication that happens in line 39 in this way even when the attacker refreshes he will not enter the session as the victim will have a new session id which the attacker have no access to.
+![[Pasted image 20250309001857.png]]
 
 ## Fixed Logic
 ![[Pasted image 20250309002732.png]]
