@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7c4ca1021d7822",
+        "id": "f24dcedf6e3f000f",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe3114a2f073101",
+            "id": "401216b828221f6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session Fixation Solution"
-            }
-          },
-          {
-            "id": "c13291dca389873f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Web Security/PDFs/fixation.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "fixation"
+              "title": "New tab"
             }
           }
         ]
@@ -191,21 +175,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4fe3114a2f073101",
+  "active": "401216b828221f6b",
   "lastOpenFiles": [
-    "Pasted image 20250309002732.png",
-    "Pasted image 20250309002731.png",
-    "Pasted image 20250309001857.png",
-    "Pasted image 20250309001852.png",
-    "Pasted image 20250309001644.png",
-    "Pasted image 20250309001629.png",
-    "Pasted image 20250309001608.png",
-    "Pasted image 20250309001207.png",
-    "Pasted image 20250309001143.png",
-    "Pasted image 20250309001022.png",
     "Semester 2/Web Security/PDFs/fixation.pdf",
-    "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
+    "Semester 2/Web Security/images/Pasted image 20250307041123.png",
+    "Semester 2/Web Security/images/Pasted image 20250309002732.png",
+    "Semester 2/Web Security/images",
+    "Semester 2/Web Security/images/Pasted image 20250307041556.png",
+    "Semester 2/Web Security/images/Pasted image 20250307042643.png",
+    "Semester 2/Web Security/images/Pasted image 20250307042942.png",
+    "Semester 2/Web Security/images/Pasted image 20250307043238.png",
+    "Semester 2/Web Security/images/Pasted image 20250309001207.png",
+    "images",
+    "Semester 2/Web Security/images/Pasted image 20250309002731.png",
+    "Semester 2/Web Security/images/Pasted image 20250309001022.png",
+    "Semester 2/Web Security/images/Pasted image 20250307041316.png",
     "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
+    "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Correctness, security and reliability/PDFs/3-2025_SCSR_03.pdf",
@@ -223,10 +209,7 @@
     "Semester 2/Web Security/PDFs/html-js.pdf",
     "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
     "Semester 2/Web Security/PDFs/server-basic.pdf",
-    "Semester 2/Web Security/PDFs/intro 1.pdf",
     "Semester 2/Web Security/Assignments/Assign. 1/Unprotected admin functionality with unpredictable URL.md",
-    "Pasted image 20250307043558.png",
-    "Semester 2/Web Security/Assignments",
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Drafting Tools.md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
