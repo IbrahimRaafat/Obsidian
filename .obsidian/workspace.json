@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Status.md",
+                "file": "Semester 1/Software Architecture/Lectures/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study Status"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "401216b828221f6b",
   "lastOpenFiles": [
+    "Study Status.md",
     "Semester 2/Web Security/PDFs/fixation.pdf",
     "Semester 2/Web Security/images/Pasted image 20250307041123.png",
     "Semester 2/Web Security/images/Pasted image 20250309002732.png",
@@ -202,7 +203,6 @@
     "Semester 2/Software Correctness, security and reliability/PDFs/Lecture 4 - Static Analysis with LiSA.pdf",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
-    "Study Status.md",
     "Semester 2/Web Security/PDFs/sessions.pdf",
     "Semester 2/Web Security/Assignments/Assign. 1/High-level logic vulnerability.md",
     "Semester 2/Web Security/Assignments/Assign. 2",
