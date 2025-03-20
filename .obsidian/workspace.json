@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f24dcedf6e3f000f",
+        "id": "38e5b9cb15722fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "401216b828221f6b",
+            "id": "2861aad674745fd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 1/Software Architecture/Lectures/Lecture 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +175,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "401216b828221f6b",
+  "active": "b89a97f1db43871a",
   "lastOpenFiles": [
     "Study Status.md",
     "Semester 2/Web Security/PDFs/fixation.pdf",
