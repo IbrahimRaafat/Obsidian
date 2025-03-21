@@ -20,9 +20,7 @@ https://www.orientamento.unina.it/corsidistudio/lingue-e-letterature-per-il-plur
 ![[Pasted image 20250203222504.png]]
 All students interested in the Master's degree in International Relations should send to Mrs. Cinzia Della Monica [disp.international@unina.it](mailto:disp.international@unina.it),  the following documents:
 - Passport;
-    
 - Bachelor’s degree certification or university enrollment certificate, if the Bachelor’s degree is not yet completed. These certificates are accepted in any of these languages: Italian, English, French or Spanish;
-    
 - Transcript of Records with the final marks and credits for each examination included in their curriculum (either in Italian, or in English, or French or Spanish);
     
 - CV/Resume in English;
