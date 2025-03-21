@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafting Tools.md",
+                "file": "Semester 2/Web Security/Lectures/Lecture X (CSP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drafting Tools"
+              "title": "Lecture X (CSP)"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "2861aad674745fd0",
   "lastOpenFiles": [
+    "Drafting Tools.md",
+    "Semester 2/Web Security/Lectures/Lecture X (CSP).md",
     "images/Pasted image 20250125192416.png",
     "Zein Universities/Pasted image 20250128204026.png",
     "images/Pasted image 20250131203029.png",
     "Zein Universities/Pasted image 20250203222504.png",
     "Zein Universities/Pasted image 20250128204026.png.md",
-    "Drafting Tools.md",
     "Study Status.md",
     "Semester 1/Software Architecture/Lectures/Lecture 1.md",
     "Semester 2/Web Security/PDFs/fixation.pdf",
@@ -197,7 +198,6 @@
     "Semester 2/Web Security/images/Pasted image 20250307042643.png",
     "Semester 2/Web Security/images/Pasted image 20250307042942.png",
     "Semester 2/Web Security/images/Pasted image 20250307043238.png",
-    "Semester 2/Web Security/images/Pasted image 20250309001207.png",
     "images",
     "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
     "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
