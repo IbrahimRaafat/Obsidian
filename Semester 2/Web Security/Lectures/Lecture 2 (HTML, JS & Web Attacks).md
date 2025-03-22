@@ -1,3 +1,6 @@
+---
+annotation-target: "![[html-js.pdf]]"
+---
 -revisit lecture recording for scoping part
 
 # Scoping in Java Script
