@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md"
+                "file": "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md"
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 (Web Sessions)"
+              "title": "Lecture 5 (Same Origin Policy)"
             }
           }
         ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
+                "file": "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 4 (Web Sessions)"
+              "title": "Backlinks for Lecture 5 (Same Origin Policy)"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md"
+                "file": "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Lecture 4 (Web Sessions)"
+              "title": "File properties for Lecture 5 (Same Origin Policy)"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "d5b03de3f5d1117d",
   "lastOpenFiles": [
-    "Semester 2/Web Security/Lectures/Lecture 7 (Content Security Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
+    "Semester 2/Web Security/Lectures/Lecture 7 (Content Security Policy).md",
     "Semester 2/Web Security/PDFs/csp.pdf",
     "Semester 2/Web Security/Lectures/Lecture 3 (Server-Side Programming and Web Authentication ).md",
     "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
