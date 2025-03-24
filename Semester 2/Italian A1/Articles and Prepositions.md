@@ -1,3 +1,29 @@
+# Plural
+
+| final vowel                            | examples                                      |
+| -------------------------------------- | --------------------------------------------- |
+| **o** ➡️ **i**                         | panin**o** ➡️ panin**i**                      |
+| **a** ➡️ **e**                         | birr**a** ➡️ birr**e**                        |
+| **e** ➡️ **i**                         | stazion**e** ➡️ stazion**i**                  |
+| **à, è, ì, ò, ù** ➡️ **à, è, ì, ò, ù** | citt**à** ➡️ citt**à** caff**è** ➡️ caff**è** |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **Definite Articles**
 
 | Article | Gender/Number      | Usage                                                                                                                                                                                                                                                 | Example                                       |
