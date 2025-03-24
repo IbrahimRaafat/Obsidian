@@ -11,14 +11,12 @@
             "id": "e8d0bf71e9db9e2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 2/Italian A1/Articles and Prepositions.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Articles and Prepositions"
+              "icon": "lucide-file-text",
+              "title": "01_slides_S"
             }
           }
         ]
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Italian A1/Articles and Prepositions.md",
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Articles and Prepositions"
+              "title": "Backlinks for 01_slides_S"
             }
           },
           {
@@ -193,6 +191,7 @@
   },
   "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
+    "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Italian A1/Homework.md",
@@ -238,7 +237,6 @@
     "Semester 2/Web Security/Assignments/Untitled.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Semester 2/Web Security/Assignments/Assign. 1/Unprotected admin functionality with unpredictable URL.md",
-    "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 1/Applied Probability/2- Random Variables and Distributions.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
