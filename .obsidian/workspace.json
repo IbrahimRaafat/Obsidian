@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf"
+                "file": "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01_slides_S"
+              "title": "Lecture2_IntroductionToSoftwareArchitect[ure]"
             }
           }
         ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
+                "file": "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_slides_S"
+              "title": "Backlinks for Lecture2_IntroductionToSoftwareArchitect[ure]"
             }
           },
           {
@@ -191,11 +191,12 @@
   },
   "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
+    "Semester 1/Software Architecture/Lectures/Lecture 1.md",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Italian A1/Homework.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
     "Semester 2/Software Performance & Scalability/PDFs/3-queueing.pdf",
     "Semester 2/Software Performance & Scalability/PDFs/2-methodology.pdf",
@@ -220,7 +221,6 @@
     "Zein Universities/Pasted image 20250203222504.png",
     "Zein Universities/Pasted image 20250128204026.png.md",
     "Study Status.md",
-    "Semester 1/Software Architecture/Lectures/Lecture 1.md",
     "Semester 2/Web Security/images/Pasted image 20250307041123.png",
     "Semester 2/Web Security/images/Pasted image 20250309002732.png",
     "Semester 2/Web Security/images/Pasted image 20250307041556.png",
@@ -237,7 +237,6 @@
     "Semester 2/Web Security/Assignments/Untitled.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Semester 2/Web Security/Assignments/Assign. 1/Unprotected admin functionality with unpredictable URL.md",
-    "Semester 1/Applied Probability/2- Random Variables and Distributions.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
