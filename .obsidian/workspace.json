@@ -11,12 +11,14 @@
             "id": "e8d0bf71e9db9e2c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 1/Software Architecture/Lectures/Lecture4_DistributedArchitectures (2).pdf"
+                "file": "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture4_DistributedArchitectures (2)"
+              "icon": "lucide-file",
+              "title": "Lecture 4 (Web Sessions)"
             }
           }
         ]
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Software Architecture/Lectures/Lecture4_DistributedArchitectures (2).pdf",
+                "file": "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture4_DistributedArchitectures (2)"
+              "title": "Backlinks for Lecture 4 (Web Sessions)"
             }
           },
           {
@@ -189,8 +191,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b89a97f1db43871a",
+  "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
+    "Semester 2/Web Security/Lectures/Lecture 3 (Server-Side Programming and Web Authentication ).md",
+    "Semester 2/Web Security/Lectures/Lecture 1 (Introduction).md",
+    "Semester 2/Web Security/PDFs/server-basic.pdf",
+    "Semester 2/Web Security/PDFs/csp.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/Lecture 5.md",
     "Semester 1/Software Architecture/Lectures/Lecture4_DistributedArchitectures (2).pdf",
     "Semester 1/Software Architecture/Lectures/Lecture3_MonolithicArchitectures (2).pdf",
     "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf",
@@ -207,16 +214,11 @@
     "Semester 2/Software Performance & Scalability/PDFs/3-queueing.pdf",
     "Semester 2/Software Performance & Scalability/PDFs/2-methodology.pdf",
     "Semester 2/Software Performance & Scalability/PDFs/MG1.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/MG1PS.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/Inspection paradox.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/Notes_on_the_course.pdf",
     "Semester 2/Web Security/Lectures/Lecture 7 (Content Security Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 6 (Cross Origin Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
-    "Semester 2/Web Security/Lectures/Lecture 3 (Server-Side Programming and Web Authentication ).md",
     "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
-    "Semester 2/Web Security/Lectures/Lecture 1 (Introduction).md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Drafting Tools.md",
     "images/Pasted image 20250125192416.png",
@@ -236,7 +238,6 @@
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
-    "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
