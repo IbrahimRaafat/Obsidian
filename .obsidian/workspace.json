@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf"
+                "file": "Semester 1/Software Architecture/Lectures/Lecture4_DistributedArchitectures (2).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture2_IntroductionToSoftwareArchitect[ure]"
+              "title": "Lecture4_DistributedArchitectures (2)"
             }
           }
         ]
@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture2_IntroductionToSoftwareArchitect[ure]"
+              "title": "Backlinks"
             }
           },
           {
@@ -189,8 +188,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8d0bf71e9db9e2c",
+  "active": "b89a97f1db43871a",
   "lastOpenFiles": [
+    "Semester 1/Software Architecture/Lectures/Lecture4_DistributedArchitectures (2).pdf",
+    "Semester 1/Software Architecture/Lectures/Lecture3_MonolithicArchitectures (2).pdf",
+    "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf",
+    "Semester 1/Software Architecture/Lectures/Lecture 4.md",
+    "Semester 1/Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
+    "Semester 1/Software Architecture/Lectures/Lecture 2.md",
     "Semester 1/Software Architecture/Lectures/Lecture 1.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Italian A1/Articles and Prepositions.md",
@@ -208,11 +213,9 @@
     "Semester 2/Web Security/Lectures/Lecture 6 (Cross Origin Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
-    "Semester 2/Web Security/PDFs/csp.pdf",
     "Semester 2/Web Security/Lectures/Lecture 3 (Server-Side Programming and Web Authentication ).md",
     "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
     "Semester 2/Web Security/Lectures/Lecture 1 (Introduction).md",
-    "Semester 2/Web Security/PDFs/intro.pdf",
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Drafting Tools.md",
     "images/Pasted image 20250125192416.png",
@@ -233,10 +236,7 @@
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 1 Introduction.md",
-    "Semester 2/Web Security/Assignments/Assign. 1/High-level logic vulnerability.md",
-    "Semester 2/Web Security/Assignments/Untitled.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
-    "Semester 2/Web Security/Assignments/Assign. 1/Unprotected admin functionality with unpredictable URL.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
