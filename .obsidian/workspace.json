@@ -11,14 +11,12 @@
             "id": "e8d0bf71e9db9e2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Zein Universities/ZEIN UNIVERSITIES.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ZEIN UNIVERSITIES"
+              "icon": "lucide-file-text",
+              "title": "CM0626-03-Obfuscation"
             }
           }
         ]
@@ -79,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 486.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zein Universities/ZEIN UNIVERSITIES.md",
+                "file": "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ZEIN UNIVERSITIES"
+              "title": "Backlinks for CM0626-03-Obfuscation"
             }
           },
           {
@@ -191,38 +189,39 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b89a97f1db43871a",
+  "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
-    "Semester 2/Cloud Computing and Distributed Systems/Lecture 2.md",
+    "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis 1.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-01-intro.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-Watermarking.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-Privacy-PETS.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-Privacy-GDPR-AI-act.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-physical-sec-human-aspects.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-Obfuscation-part3.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-Malware-Analysis.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra 1.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-labs-malware-rop.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
+    "Zein Universities/ZEIN UNIVERSITIES.md",
+    "Semester 2/Cloud Computing and Distributed Systems/Lecture 2.md",
     "Pasted image 20250430050548.png",
     "Pasted image 20250430045503.png",
     "Semester 2/Web Security/Lectures/Lecture 4 (Web Sessions).md",
     "Semester 2/Web Security/Lectures/Lecture 3 (Server-Side Programming and Web Authentication ).md",
     "Semester 2/Web Security/Lectures/Lecture 1 (Introduction).md",
-    "Semester 2/Web Security/PDFs/server-basic.pdf",
-    "Semester 2/Web Security/PDFs/csp.pdf",
-    "Semester 1/Software Architecture/Lectures/Lecture4_DistributedArchitectures (2).pdf",
-    "Semester 1/Software Architecture/Lectures/Lecture3_MonolithicArchitectures (2).pdf",
-    "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf",
     "Semester 1/Software Architecture/Lectures/Lecture 4.md",
     "Semester 1/Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
     "Semester 1/Software Architecture/Lectures/Lecture 2.md",
     "Semester 1/Software Architecture/Lectures/Lecture 1.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
     "Semester 2/Italian A1/Homework.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/3-queueing.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/2-methodology.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/MG1.pdf",
     "Semester 2/Web Security/Lectures/Lecture 7 (Content Security Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 6 (Cross Origin Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 2 (HTML, JS & Web Attacks).md",
-    "Zein Universities/ZEIN UNIVERSITIES.md",
     "Drafting Tools.md",
     "images/Pasted image 20250125192416.png",
     "Zein Universities/Pasted image 20250128204026.png",
@@ -238,7 +237,6 @@
     "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
-    "Semester 2/Software Correctness, security and reliability/Lecture 4 Lisa.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
