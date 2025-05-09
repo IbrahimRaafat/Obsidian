@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf"
+                "file": "Semester 2/Software Security/PDFs/CM0626-04-Obfuscation-part2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CM0626-03-Obfuscation"
+              "title": "CM0626-04-Obfuscation-part2"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 321.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf",
+                "file": "Semester 2/Software Security/PDFs/CM0626-04-Obfuscation-part2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CM0626-03-Obfuscation"
+              "title": "Backlinks for CM0626-04-Obfuscation-part2"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
+    "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis 1.pdf",
     "Semester 2/Software Security/PDFs/CM0626-01-intro.pdf",
@@ -201,7 +202,6 @@
     "Semester 2/Software Security/PDFs/CM0626-Obfuscation-part3.pdf",
     "Semester 2/Software Security/PDFs/CM0626-Malware-Analysis.pdf",
     "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra 1.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-labs-malware-rop.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 2.md",
