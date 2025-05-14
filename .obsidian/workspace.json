@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf"
+                "file": "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2_Random_Variables_and_Distributions"
+              "title": "4_Intro_Stochastic_Processes"
             }
           }
         ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf",
+                "file": "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2_Random_Variables_and_Distributions"
+              "title": "Backlinks for 4_Intro_Stochastic_Processes"
             }
           },
           {
@@ -191,6 +191,10 @@
   },
   "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
+    "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
+    "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf",
+    "Semester 1/Applied Probability/3_Common_Distributions.pdf",
+    "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
     "Semester 1/Applied Probability/1_Elementary_Probability.pdf",
     "Semester 2/Software Security/PDFs/CM0626-Obfuscation-part3.pdf",
@@ -199,9 +203,6 @@
     "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf",
     "Semester 2/Software Security/PDFs/CM0626-labs-malware-rop.pdf",
     "Semester 2/Software Security/PDFs/CM0626-labs-ghidra-malware.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-evoting.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-Evaluation-Sw-Protection.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-cybercrime.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 2.md",
@@ -236,7 +237,6 @@
     "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
     "Semester 2/Web Security/Assignments/Assign. 2/Session Fixation Solution.md",
     "Semester 2/Software Correctness, security and reliability/Lecture 3 Algebraic Structures.md",
-    "Semester 2/Software Correctness, security and reliability/Lecture 2 Std in software quality assurance.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
