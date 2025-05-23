@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "01_slides_S"
             }
+          },
+          {
+            "id": "e57a63154b6ba315",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "02_slides_S 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_slides_S"
+              "title": "Backlinks for 02_slides_S 1"
             }
           },
           {
@@ -189,21 +202,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e8d0bf71e9db9e2c",
+  "active": "e57a63154b6ba315",
   "lastOpenFiles": [
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
-    "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf",
-    "quickstarts/Get_started_Veo.ipynb",
-    "quickstarts",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides 1.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S 1.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/12_slides_S.pdf",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
-    "Semester 1/Applied Probability/3_Common_Distributions.pdf",
-    "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
-    "Semester 1/Applied Probability/1_Elementary_Probability.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-Obfuscation-part3.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-Malware-Analysis.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra 1.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 2.md",
