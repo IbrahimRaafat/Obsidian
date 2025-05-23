@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf"
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "4_Intro_Stochastic_Processes"
+              "title": "01_slides_S"
             }
           }
         ]
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf",
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4_Intro_Stochastic_Processes"
+              "title": "Backlinks for 01_slides_S"
             }
           },
           {
@@ -189,12 +189,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b89a97f1db43871a",
+  "active": "e8d0bf71e9db9e2c",
   "lastOpenFiles": [
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
+    "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf",
     "quickstarts/Get_started_Veo.ipynb",
     "quickstarts",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
-    "Semester 1/Applied Probability/4_Intro_Stochastic_Processes.pdf",
     "Semester 1/Applied Probability/3_Common_Distributions.pdf",
     "Semester 1/Applied Probability/2_Random_Variables_and_Distributions.pdf",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
@@ -203,7 +204,6 @@
     "Semester 2/Software Security/PDFs/CM0626-Malware-Analysis.pdf",
     "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra 1.pdf",
     "Semester 2/Software Security/PDFs/CM0626-labs-reveng-ghidra.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-labs-malware-rop.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Zein Universities/ZEIN UNIVERSITIES.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 2.md",
