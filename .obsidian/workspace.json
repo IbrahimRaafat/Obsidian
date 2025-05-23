@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 1/Advanced Programming/PDFs/2. Scala Overview.pdf"
+                "file": "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2. Scala Overview"
+              "title": "3. Lambda Calculus - Part I"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Advanced Programming/PDFs/2. Scala Overview.pdf",
+                "file": "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Scala Overview"
+              "title": "Backlinks for 3. Lambda Calculus - Part I"
             }
           },
           {
@@ -204,18 +204,18 @@
   },
   "active": "e57a63154b6ba315",
   "lastOpenFiles": [
+    "Semester 1/Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
+    "Semester 1/Advanced Programming/PDFs/8. Algebraic Data Types.pdf",
+    "Semester 1/Advanced Programming/PDFs/7. Typed Lambda Calculus.pdf",
+    "Semester 1/Advanced Programming/PDFs/5-B. Typed Systems.pdf",
+    "Semester 1/Advanced Programming/PDFs/5-A. Inductive Definitions.pdf",
+    "Semester 1/Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
+    "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
+    "Semester 1/Advanced Programming/PDFs/2. Scala Overview.pdf",
     "Semester 1/Advanced Programming/PDFs/1-B. Core Aspects of PL Design.pdf",
     "Semester 1/Advanced Programming/PDFs/1-A. Introduction.pdf",
     "Semester 1/Advanced Programming/PDFs/0. Welcome.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides 1.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S 1.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
