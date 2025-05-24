@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf"
+                "file": "Semester 1/Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3. Lambda Calculus - Part I"
+              "title": "4. Pure λ Calculus - Part II"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
+                "file": "Semester 1/Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Lambda Calculus - Part I"
+              "title": "Backlinks for 4. Pure λ Calculus - Part II"
             }
           },
           {
@@ -204,13 +204,13 @@
   },
   "active": "e57a63154b6ba315",
   "lastOpenFiles": [
+    "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
     "Semester 1/Advanced Programming/PDFs/9. ATDs in Programming Languages.pdf",
     "Semester 1/Advanced Programming/PDFs/8. Algebraic Data Types.pdf",
     "Semester 1/Advanced Programming/PDFs/7. Typed Lambda Calculus.pdf",
     "Semester 1/Advanced Programming/PDFs/5-B. Typed Systems.pdf",
     "Semester 1/Advanced Programming/PDFs/5-A. Inductive Definitions.pdf",
     "Semester 1/Advanced Programming/PDFs/4. Pure λ Calculus - Part II.pdf",
-    "Semester 1/Advanced Programming/PDFs/3. Lambda Calculus - Part I.pdf",
     "Semester 1/Advanced Programming/PDFs/2. Scala Overview.pdf",
     "Semester 1/Advanced Programming/PDFs/1-B. Core Aspects of PL Design.pdf",
     "Semester 1/Advanced Programming/PDFs/1-A. Introduction.pdf",
