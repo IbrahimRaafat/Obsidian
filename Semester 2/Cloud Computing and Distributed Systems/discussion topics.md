@@ -78,6 +78,8 @@ Here are the discussion topics from the 17 Cloud Computing and Distributed Syste
             - **Confidentiality:** Data can be encrypted _before_ replication, so that even if a replica is compromised, the data remains unintelligible without the decryption key.
             - **Censorship Resistance:** In highly decentralized P2P systems, replication across many diverse nodes can make it harder for a single entity to censor or remove data.
         - **Limitations of Replication for Security:** Replication alone does not solve all security problems. If the _original_ data is compromised before replication, or if the encryption keys are stolen, replication will simply spread the compromised data. Trust in the network's participants and robust security protocols (authentication, access control) are still crucial.
+
+
 - **Discussion Topic:** Consider a hypothetical car hire company and sketch out a three-tier solution to the provision of their underlying distributed car hire service. Use this to illustrate the benefits and drawbacks of a three-tier solution considering issues such as performance, scalability, dealing with failure and also maintaining the software over time.
     
     - **Sketch of a Three-Tier Solution for a Car Hire Company:**

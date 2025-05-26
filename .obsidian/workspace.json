@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for discussion topics"
+              "title": "Backlinks for 05_slides_S"
             }
           },
           {
@@ -264,14 +264,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4676675c0c821566",
+  "active": "bd78fcf39b4ac4c7",
   "lastOpenFiles": [
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
