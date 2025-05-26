@@ -59,14 +59,12 @@
             "id": "1182513660f0d586",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf"
               },
-              "icon": "lucide-file",
-              "title": "discussion topics"
+              "icon": "lucide-file-text",
+              "title": "16_slides_S"
             }
           },
           {
@@ -291,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for discussion topics"
+              "title": "Backlinks for 16_slides_S"
             }
           },
           {
@@ -350,14 +348,14 @@
   },
   "active": "1182513660f0d586",
   "lastOpenFiles": [
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/12_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/07_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/06_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
