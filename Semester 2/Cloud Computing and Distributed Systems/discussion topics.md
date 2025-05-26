@@ -496,8 +496,8 @@ Here are the discussion topics from the 17 Cloud Computing and Distributed Syste
     - **Factors in Remote Invocation Cost also Feature in Message Passing:** Remote invocation (like RPC/RMI) uses message passing primitives (like sockets) under the hood. Therefore, many cost factors overlap.
         
         1. **Marshalling/Unmarshalling:** The process of converting data structures into a byte stream for transmission (marshalling) and back again (unmarshalling). This is a common requirement whenever structured data needs to be sent across a boundary (process, machine).
-            
-        2. **Data Copying:** Copying message data between application buffers, kernel buffers, and network device buffers.
+	            
+	        1. **Data Copying:** Copying message data between application buffers, kernel buffers, and network device buffers.
             
         3. **Operating System Kernel Overhead:** This includes the cost of system calls (`send`, `receive`) to interact with the network stack, and internal kernel processing related to managing network connections and buffers.
             

@@ -59,12 +59,14 @@
             "id": "1182513660f0d586",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf"
+                "file": "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "04_slides_S"
+              "icon": "lucide-file",
+              "title": "discussion topics"
             }
           },
           {
@@ -95,14 +97,12 @@
             "id": "4676675c0c821566",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf"
               },
-              "icon": "lucide-file",
-              "title": "discussion topics"
+              "icon": "lucide-file-text",
+              "title": "14_slides_S"
             }
           },
           {
@@ -111,10 +111,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf"
+                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "13_slides_S"
+              "title": "17_slides_S"
             }
           },
           {
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
+                "file": "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 13_slides_S"
+              "title": "Backlinks for discussion topics"
             }
           },
           {
@@ -348,20 +348,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3398135d084d92e6",
+  "active": "1182513660f0d586",
   "lastOpenFiles": [
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/12_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/07_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/06_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
