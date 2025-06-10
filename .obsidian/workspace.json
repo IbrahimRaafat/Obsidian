@@ -61,10 +61,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf"
+                "file": "Semester 1/System Security/Lecture 14 Side-channels.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "16_slides_S"
+              "title": "Lecture 14 Side-channels"
             }
           },
           {
@@ -289,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
+                "file": "Semester 1/System Security/Lecture 14 Side-channels.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16_slides_S"
+              "title": "Backlinks for Lecture 14 Side-channels"
             }
           },
           {
@@ -348,17 +348,18 @@
   },
   "active": "1182513660f0d586",
   "lastOpenFiles": [
+    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
+    "Semester 1/System Security/Lecture 12 Security-APIs.pdf",
+    "Semester 1/System Security/Lecture 11- Trusted-Computing.pdf",
+    "Semester 1/System Security/Lecture 4 - Malware1.pdf",
+    "Semester 1/System Security/Lecture 0 Introduction-to-Cryptography-small.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/12_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/07_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/06_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
