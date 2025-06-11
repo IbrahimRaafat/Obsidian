@@ -61,10 +61,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 1/System Security/Lecture 14 Side-channels.pdf"
+                "file": "Semester 1/System Security/Lecture 10 Operating-System-Security.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture 14 Side-channels"
+              "title": "Lecture 10 Operating-System-Security"
             }
           },
           {
@@ -234,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 298.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -289,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/System Security/Lecture 14 Side-channels.pdf",
+                "file": "Semester 1/System Security/Lecture 10 Operating-System-Security.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 14 Side-channels"
+              "title": "Backlinks for Lecture 10 Operating-System-Security"
             }
           },
           {
@@ -348,18 +348,19 @@
   },
   "active": "1182513660f0d586",
   "lastOpenFiles": [
-    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
-    "Semester 1/System Security/Lecture 12 Security-APIs.pdf",
+    "Semester 1/System Security/Lecture 9 Software-Security.pdf",
     "Semester 1/System Security/Lecture 11- Trusted-Computing.pdf",
-    "Semester 1/System Security/Lecture 4 - Malware1.pdf",
+    "Semester 1/System Security/Lecture 12 Security-APIs.pdf",
     "Semester 1/System Security/Lecture 0 Introduction-to-Cryptography-small.pdf",
+    "Semester 1/System Security/Q&A.md",
+    "Semester 1/System Security/Lecture 14 Side-channels.pdf",
+    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
+    "Semester 1/System Security/Lecture 4 - Malware1.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/04_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/13_slides_S.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/12_slides_S.pdf",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
@@ -393,7 +394,6 @@
     "Semester 2/Web Security/images/Pasted image 20250309002732.png",
     "Semester 2/Web Security/images/Pasted image 20250307041556.png",
     "Semester 2/Web Security/images/Pasted image 20250307042643.png",
-    "Semester 2/Web Security/Assignments/Assign. 2/Fixation.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
