@@ -1,15 +1,16 @@
 $$
-\begin{array}{|c|c|c|}
+\begin{array}{|c|c|}
 \hline
-\textbf{State \#} & \textbf{State}       & \textbf{Steady-State Probability} \\
+\textbf{State} & \textbf{Steady-State Probability} \\
 \hline
-1 & \{EF,\ MS\}    & 0.017232478289940605 \\
-2 & \{VEF,\ VS\}   & 0.9766074882098087 \\
-3 & \{EF,\ C\}     & 0.0012406994990883063 \\
-4 & \{VES,\ MS\}   & 0.0027351075990770363 \\
-5 & \{VES,\ C\}    & 0.0021842264020852675 \\
+\{EF,\ MS\}    & 0.018426098301179684 \\
+\{VEF,\ VS\}   & 0.9813820325903078 \\
+\{EF,\ C\}     & 1.3739315866107606 \times 10^{-4} \\
+\{VES,\ MS\}   & 4.242931440463117 \times 10^{-5} \\
+\{VES,\ C\}    & 1.2046635446801604 \times 10^{-5} \\
 \hline
 \end{array}
 $$
+
 
 
