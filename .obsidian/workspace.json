@@ -71,14 +71,12 @@
             "id": "79616717be950743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 1/Formal Methods/Lectures/lezione3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "lezione3"
             }
           },
           {
@@ -303,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Semester 1/Formal Methods/Lectures/lezione3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +311,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for lezione3"
             }
           },
           {
@@ -362,8 +360,9 @@
   },
   "active": "79616717be950743",
   "lastOpenFiles": [
-    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
+    "Semester 1/Formal Methods/Lectures/Lecture 1.md",
     "Untitled.md",
+    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
     "Semester 1/System Security/Lecture 12 Security-APIs.pdf",
     "Semester 1/System Security/Lecture 11- Trusted-Computing.pdf",
     "Semester 1/System Security/Lecture 10 Operating-System-Security.pdf",
