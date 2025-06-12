@@ -1,17 +1,22 @@
 $$
 \begin{array}{|c|c|}
 \hline
-\textbf{Local State} & \textbf{Utilization} \\
+\textbf{Action} & \textbf{Throughput (w=150)} \\
 \hline
-\text{EF}   & 0.018473177789028912 \\
-\text{VEF}  & 0.9766074882098087 \\
-\text{VES}  & 0.004919334001162304 \\
-\text{C}    & 0.003424295901173574 \\
-\text{MS}   & 0.01996758588901764 \\
-\text{VS}   & 0.9766074882098087 \\
+\text{mEF} & 0.3089685053204066 \\
+\text{mS1)} & 0.002299331688140247 \\
+\text{mS2} & 1.8605254366430766 \times 10^{-5} \\
+\text{vEF} & 0.3081539582333566 \\
+\text{Vs} & 1.710544825334989 \times 10^{-5} \\
 \hline
 \end{array}
+
 $$
+
+
+
+
+
 
 
 
