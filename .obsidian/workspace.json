@@ -23,14 +23,12 @@
             "id": "b145924ebb6e293f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Software Performance & Scalability/PDFs/1-introduction.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "lucide-file-text",
+              "title": "1-introduction"
             }
           },
           {
@@ -327,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
+                "file": "Semester 2/Software Performance & Scalability/PDFs/1-introduction.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +335,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for 1-introduction"
             }
           },
           {
@@ -386,9 +384,11 @@
   },
   "active": "b145924ebb6e293f",
   "lastOpenFiles": [
+    "Semester 2/Software Performance & Scalability/PDFs/2-methodology.pdf",
+    "Semester 2/Software Performance & Scalability/PDFs/3-queueing.pdf",
+    "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
     "Pasted image 20250617022741.png",
     "Untitled 1.md",
-    "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
     "Semester 1/Formal Methods/Lectures/lezione6.pdf",
     "Semester 1/Formal Methods/Lectures/lezione10.pdf",
@@ -400,7 +400,6 @@
     "Semester 1/Formal Methods/Lectures/lezione3.pdf",
     "Semester 1/Formal Methods/Lectures/Lecture 1.md",
     "Untitled.md",
-    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
     "Semester 1/System Security/Q&A.md",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
@@ -431,7 +430,6 @@
     "Semester 2/Web Security/images/Pasted image 20250307041123.png",
     "Semester 2/Web Security/images/Pasted image 20250309002732.png",
     "Semester 2/Web Security/images/Pasted image 20250307041556.png",
-    "Semester 2/Web Security/images/Pasted image 20250307042643.png",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
