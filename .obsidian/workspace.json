@@ -4,217 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2254153303ef9a40",
+        "id": "37dcfb89864f3b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d0bf71e9db9e2c",
+            "id": "fae5c6b73744f83b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "00_slides"
-            }
-          },
-          {
-            "id": "b145924ebb6e293f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Software Performance & Scalability/Random.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Random"
-            }
-          },
-          {
-            "id": "2f15a2ca392290cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01_slides_S"
-            }
-          },
-          {
-            "id": "938a603505352624",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "02_slides_S 1"
-            }
-          },
-          {
-            "id": "86f7007f266c9a93",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03_slides_S"
-            }
-          },
-          {
-            "id": "1182513660f0d586",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 13- Formal-Methods-for-Security"
-            }
-          },
-          {
-            "id": "79616717be950743",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 1/Formal Methods/Lectures/lezione6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "lezione6"
-            }
-          },
-          {
-            "id": "2694dac503ee802c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 1/Formal Methods/Lectures/lezione10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "lezione10"
-            }
-          },
-          {
-            "id": "bd78fcf39b4ac4c7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "05_slides_S"
-            }
-          },
-          {
-            "id": "e949713c37243f39",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/07_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "07_slides_S"
-            }
-          },
-          {
-            "id": "4676675c0c821566",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "14_slides_S"
-            }
-          },
-          {
-            "id": "3398135d084d92e6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "17_slides_S"
-            }
-          },
-          {
-            "id": "9ac39fd41ed9e65b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "14_slides_S"
-            }
-          },
-          {
-            "id": "dcfd0473d57ae2a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/15_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "15_slides_S"
-            }
-          },
-          {
-            "id": "096d265d59a00008",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/16_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "16_slides_S"
-            }
-          },
-          {
-            "id": "4e36243eeec26d7c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "17_slides_S"
-            }
-          },
-          {
-            "id": "5ad5eeedca80952d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Cloud Computing and Distributed Systems/PDFs/12_slides_S.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "12_slides_S"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Performance & Scalability/Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random"
+              "title": "Backlinks"
             }
           },
           {
@@ -384,26 +186,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b145924ebb6e293f",
+  "active": "fae5c6b73744f83b",
   "lastOpenFiles": [
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
+    "Semester 2/Software Performance & Scalability/Random.md",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
+    "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
+    "Semester 1/Formal Methods/Lectures/lezione6.pdf",
+    "Semester 1/Formal Methods/Lectures/lezione10.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/07_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/14_slides_S.pdf",
+    "Semester 2/Cloud Computing and Distributed Systems/PDFs/17_slides_S.pdf",
     "Pasted image 20250617223926.png",
     "Pasted image 20250617223902.png",
     "Pasted image 20250617223733.png",
     "Pasted image 20250617223441.png",
     "Pasted image 20250617223344.png",
-    "Semester 2/Software Performance & Scalability/PDFs/1-introduction.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/2-methodology.pdf",
-    "Semester 2/Software Performance & Scalability/PDFs/3-queueing.pdf",
     "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
     "Pasted image 20250617022741.png",
     "Untitled 1.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione6.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione10.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione9.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione8.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione7.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione5.pdf",
     "Semester 1/Formal Methods/Lectures/Lecture 1.md",
     "Untitled.md",
     "Semester 1/System Security/Q&A.md",
@@ -428,10 +232,8 @@
     "Semester 2/Italian A1/Homework.md",
     "Semester 2/Web Security/Lectures/Lecture 7 (Content Security Policy).md",
     "Semester 2/Web Security/Lectures/Lecture 6 (Cross Origin Policy).md",
-    "Semester 2/Web Security/Lectures/Lecture 5 (Same Origin Policy).md",
     "images/Pasted image 20250125192416.png",
     "Zein Universities/Pasted image 20250128204026.png",
-    "images/Pasted image 20250131203029.png",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
