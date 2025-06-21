@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf"
+                "file": "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CM0626-02-assembly-recap"
+              "title": "CM0626-02-Program-analysis"
             }
           }
         ],
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 201.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
+                "file": "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CM0626-02-assembly-recap"
+              "title": "Backlinks for CM0626-02-Program-analysis"
             }
           },
           {
@@ -204,6 +204,7 @@
   },
   "active": "a2fd08a0ed945739",
   "lastOpenFiles": [
+    "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
     "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf",
     "Untitled 2.md",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
