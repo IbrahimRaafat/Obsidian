@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf"
+                "file": "Semester 2/Software Security/PDFs/CM0626-05-Attack-modelling.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CM0626-02-RevEng"
+              "title": "CM0626-05-Attack-modelling"
             }
           }
         ],
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
+                "file": "Semester 2/Software Security/PDFs/CM0626-05-Attack-modelling.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CM0626-02-RevEng"
+              "title": "Backlinks for CM0626-05-Attack-modelling"
             }
           },
           {
@@ -204,6 +204,9 @@
   },
   "active": "a2fd08a0ed945739",
   "lastOpenFiles": [
+    "Semester 2/Software Security/PDFs/CM0626-04-Obfuscation-part2.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf",
+    "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
     "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf",
@@ -214,9 +217,6 @@
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/02_slides_S 1.pdf",
     "Semester 2/Cloud Computing and Distributed Systems/PDFs/03_slides_S.pdf",
     "Semester 1/System Security/Lecture 13- Formal-Methods-for-Security.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione6.pdf",
-    "Semester 1/Formal Methods/Lectures/lezione10.pdf",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/05_slides_S.pdf",
     "Pasted image 20250617223926.png",
     "Pasted image 20250617223902.png",
     "Pasted image 20250617223733.png",
