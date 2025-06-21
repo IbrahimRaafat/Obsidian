@@ -11,10 +11,12 @@
             "id": "fae5c6b73744f83b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CM0626-01-intro 1"
             }
           }
         ]
@@ -130,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CM0626-01-intro 1"
             }
           },
           {
