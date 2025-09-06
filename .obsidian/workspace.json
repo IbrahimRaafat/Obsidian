@@ -23,12 +23,14 @@
             "id": "a2fd08a0ed945739",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-evoting.pdf"
+                "file": "Semester 1/Formal Methods/final notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CM0626-evoting"
+              "icon": "lucide-file",
+              "title": "final notes"
             }
           }
         ],
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-evoting.pdf",
+                "file": "Semester 1/Formal Methods/final notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CM0626-evoting"
+              "title": "Backlinks for final notes"
             }
           },
           {
@@ -205,6 +207,11 @@
   },
   "active": "a2fd08a0ed945739",
   "lastOpenFiles": [
+    "Semester 1/Formal Methods/Strong Equivelance/Guide.md",
+    "Semester 1/Formal Methods/final notes.md",
+    "Semester 1/Formal Methods/Untitled",
+    "Semester 1/Formal Methods/Strong Equivelance/Examples.md",
+    "Semester 2/Software Security/PDFs/CM0626-evoting.pdf",
     "Semester 2/Software Security/PDFs/CM0626-Evaluation-Sw-Protection.pdf",
     "Semester 2/Software Security/PDFs/CM0626-Android.pdf",
     "Semester 2/Software Security/PDFs/CM0626-05-Attack-modelling.pdf",
@@ -213,11 +220,8 @@
     "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf",
     "Untitled 2.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/00_slides.pdf",
     "Semester 2/Software Performance & Scalability/Random.md",
-    "Semester 2/Cloud Computing and Distributed Systems/PDFs/01_slides_S.pdf",
     "Pasted image 20250617223926.png",
     "Pasted image 20250617223902.png",
     "Pasted image 20250617223733.png",
@@ -247,8 +251,6 @@
     "Semester 2/Italian A1/Articles and Prepositions.md",
     "Semester 2/Italian A1/Common Questions.md",
     "Semester 2/Italian A1/Common Verbs & Cojucations.md",
-    "Semester 2/Italian A1/Homework.md",
-    "Semester 2/Web Security/Lectures/Lecture 7 (Content Security Policy).md",
     "images/Pasted image 20250125192416.png",
     "Zein Universities/Pasted image 20250128204026.png",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
