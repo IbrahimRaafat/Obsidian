@@ -246,6 +246,8 @@ CREATE EXTENSION IF NOT EXISTS citext;
 
 ```
 ```
+```
+```
 -- auth
 CREATE TYPE auth.role_enum AS ENUM ('patient','doctor','admin');
 CREATE TABLE auth.users (
@@ -288,8 +290,8 @@ CREATE TABLE care.document_summaries(
   id UUID PRIMARY KEY, document_id UUID UNIQUE NOT NULL,
   summary_text TEXT, keywords TEXT[], pages INT, created_at TIMESTAMPTZ DEFAULT now()
 );
-```
 
+```
 
 **NGINX gateway**
 
