@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Software Security/Exam.md",
+                "file": "Semester 1/Software Architecture/Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam"
+              "title": "Project"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Software Security/Exam.md",
+                "file": "Semester 1/Software Architecture/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exam"
+              "title": "Backlinks for Project"
             }
           },
           {
@@ -207,8 +207,9 @@
   },
   "active": "a2fd08a0ed945739",
   "lastOpenFiles": [
-    "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
+    "Semester 1/Software Architecture/؛قختثؤف.md",
     "Semester 2/Software Security/Exam.md",
+    "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 1/Formal Methods/final notes.md",
     "Pasted image 20250908030534.png",
     "Semester 1/Formal Methods/Strong Equivelance/Guide.md",
@@ -251,7 +252,6 @@
     "Semester 1/Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
     "Semester 1/Software Architecture/Lectures/Lecture 2.md",
     "Semester 1/Software Architecture/Lectures/Lecture 1.md",
-    "Semester 2/Italian A1/Articles and Prepositions.md",
     "images/Pasted image 20250125192416.png",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
