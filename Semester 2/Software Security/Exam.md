@@ -138,4 +138,4 @@ the correct one is the E.
 
 A question about malwares finding the wrong statement.
 
-The last one was which provides code integrity,i think,which was remote attestation
+The last one was which provides code integrity,i think,which  
