@@ -1,3 +1,8 @@
+![[Pasted image 20250918015049.png]]
+
+
+
+
 First exercise:
 Given the 0x1 level of crackme assembly code,find the password explaining the steps you have performed.
 

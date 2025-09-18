@@ -11,18 +11,6 @@
             "id": "fae5c6b73744f83b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CM0626-01-intro 1"
-            }
-          },
-          {
-            "id": "a2fd08a0ed945739",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Semester 2/Software Security/Exam.md",
@@ -32,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Exam"
             }
+          },
+          {
+            "id": "a2fd08a0ed945739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/Software Performance & Scalability/Exam Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam Prep"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +206,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a2fd08a0ed945739",
+  "active": "fae5c6b73744f83b",
   "lastOpenFiles": [
+    "Pasted image 20250918015049.png",
+    "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf",
+    "Semester 2/Software Performance & Scalability/Exam Prep.md",
+    "Semester 2/Software Security/Exam.md",
     "Semester 1/Software Architecture/Project.md",
     "Semester 1/Software Architecture/؛قختثؤف.md",
-    "Semester 2/Software Security/Exam.md",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 1/Formal Methods/final notes.md",
     "Pasted image 20250908030534.png",
@@ -224,7 +228,6 @@
     "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Security/PDFs/CM0626-02-Program-analysis.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-02-assembly-recap.pdf",
     "Untitled 2.md",
     "Semester 2/Software Performance & Scalability/Random.md",
     "Pasted image 20250617223926.png",
@@ -250,8 +253,6 @@
     "Semester 2/Web Security/Lectures/Lecture 3 (Server-Side Programming and Web Authentication ).md",
     "Semester 2/Web Security/Lectures/Lecture 1 (Introduction).md",
     "Semester 1/Software Architecture/Lectures/Lecture 4.md",
-    "Semester 1/Software Architecture/Lectures/Lecture 3 Monolithic Architectures.md",
-    "Semester 1/Software Architecture/Lectures/Lecture 2.md",
     "images/Pasted image 20250125192416.png",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled.canvas",
