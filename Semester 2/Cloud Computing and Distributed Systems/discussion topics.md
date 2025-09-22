@@ -183,7 +183,7 @@ Here are the discussion topics from the 17 Cloud Computing and Distributed Syste
     - **Application-Specific Comparisons:**
         
         - **i) Virtual Terminal Access (Telnet):**
-            - **TCP:** **Preferred.** Telnet requires reliable, ordered delivery of individual characters (keystrokes and screen output). Loss or reordering of characters would make the terminal unusable. TCP provides this guarantee.
+	            - **TCP:** **Preferred.** Telnet requires reliable, ordered delivery of individual characters (keystrokes and screen output). Loss or reordering of characters would make the terminal unusable. TCP provides this guarantee.
                 
             - **UDP:** Not suitable. Loss of characters would lead to missing input/output, and reordering would scramble text, making interaction impossible.
         - **ii) File Transfer (FTP):**
