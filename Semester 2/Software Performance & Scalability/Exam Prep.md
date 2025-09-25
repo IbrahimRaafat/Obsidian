@@ -8,3 +8,9 @@ _What happen if we have sjf with G/D/1
 _Resolve a traffic equation
 _Burke Gordon-Newell Jackson
 _Formulas of M/M/1
+Little law
+Arrival thm
+Mva algo
+Dispatching disc.
+MM1
+Stability cond.
