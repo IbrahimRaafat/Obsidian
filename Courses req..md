@@ -1,4 +1,4 @@
-[obsidian-toc](#Software-performance-scalability)
+
 # Foundations of AI:
 - 3 assignments + oral Exam
 
