@@ -1,3 +1,4 @@
+[TOC]
 # Foundations of AI:
 - 3 assignments + oral Exam
 
