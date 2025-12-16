@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "supers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,7 +191,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "565d0a7893f3b4da",
+  "active": "9b2e8012805b3ea0",
   "lastOpenFiles": [
     "cloud-computing.md",
     "Courses req..md",
