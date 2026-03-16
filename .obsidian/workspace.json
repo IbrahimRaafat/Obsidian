@@ -11,30 +11,15 @@
             "id": "6d10679071d1abc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Study Status.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 4/Learning with MD/Redomender Systems.md"
               },
               "icon": "lucide-file",
-              "title": "Study Status"
-            }
-          },
-          {
-            "id": "f04035b340eac7d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Redomender Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester 4/Learning with MD/Redomender Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Redomender Systems"
             }
           },
           {
@@ -204,11 +190,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f04035b340eac7d1",
+  "active": "6d10679071d1abc0",
   "lastOpenFiles": [
+    "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
+    "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
+    "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
+    "Semester 4/Learning with MD/Redomender Systems.md",
+    "Semester 4/Learning with MD/04 Recommender Systems.pdf",
+    "Study Status.md",
+    "Semester 4/Learning with MD",
+    "Semester 4",
     "Courses req..md",
     "Drafting Tools.md",
-    "Study Status.md",
     "TOC.md",
     "Untitled 2.md",
     "Untitled.md",
@@ -220,13 +213,11 @@
     "2026-03-15.md",
     "cloud-computing.md",
     "Semester 2/Software Performance & Scalability/Exam Prep.md",
-    "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "Semester 2/Software Security/Exam.md",
     "Pasted image 20250918015049.png",
     "Semester 2/Software Security/PDFs/CM0626-01-intro 1.pdf",
     "Semester 1/Software Architecture/Project.md",
     "Semester 1/Software Architecture/؛قختثؤف.md",
-    "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 1/Formal Methods/final notes.md",
     "Pasted image 20250908030534.png",
     "Semester 1/Formal Methods/Strong Equivelance/Guide.md",
@@ -236,9 +227,6 @@
     "Semester 2/Software Security/PDFs/CM0626-Evaluation-Sw-Protection.pdf",
     "Semester 2/Software Security/PDFs/CM0626-Android.pdf",
     "Semester 2/Software Security/PDFs/CM0626-05-Attack-modelling.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-04-Obfuscation-part2.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-03-Obfuscation.pdf",
-    "Semester 2/Software Security/PDFs/CM0626-02-RevEng.pdf",
     "Semester 2/Software Performance & Scalability/Random.md",
     "Pasted image 20250617223926.png",
     "Pasted image 20250617223902.png",
@@ -251,7 +239,6 @@
     "Semester 1/System Security/Q&A.md",
     "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
     "Semester 1/Applied Probability/1- Elementary Probability.md",
-    "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled 1.canvas"
   ]
