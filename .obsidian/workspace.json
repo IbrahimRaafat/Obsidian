@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Study Status"
             }
+          },
+          {
+            "id": "f04035b340eac7d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Study Status"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,7 +204,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6d10679071d1abc0",
+  "active": "f04035b340eac7d1",
   "lastOpenFiles": [
     "Courses req..md",
     "Drafting Tools.md",
