@@ -1,0 +1,2 @@
+- Cover Base and Edge cases
+- Use helper functions when needed
