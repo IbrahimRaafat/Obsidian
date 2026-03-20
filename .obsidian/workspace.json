@@ -11,11 +11,9 @@
             "id": "6d10679071d1abc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/Lectures/Lambda Calculus.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 4/Advanced Programming Languages/Lectures/Lambda Calculus.md"
               },
               "icon": "lucide-file",
               "title": "Lambda Calculus"
@@ -192,20 +190,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6d10679071d1abc0",
+  "active": "b89a97f1db43871a",
   "lastOpenFiles": [
-    "Semester 4/Learning with MD/Redomender Systems.md",
+    "Semester 4/Advanced Programming Languages/project",
+    "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell.pdf",
+    "Semester 4/Advanced Programming Languages/PDFs/5. The λ Calculus.pdf",
     "Semester 4/Advanced Programming Languages/Lectures/Lambda Calculus.md",
+    "Semester 4/Learning with MD/Redomender Systems.md",
     "Semester 4/Advanced Programming Languages/PDFs/4. Student Project.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/3. Speak Scala.pdf",
-    "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell Solutions.hs",
     "Semester 4/Advanced Programming Languages/PDFs/1.Core Aspects of PL Design.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/0. Welcome.pdf",
     "Semester 4/Advanced Programming Languages/PDFs",
     "Semester 4/Advanced Programming Languages/Lectures",
-    "Semester 4/Advanced Programming Languages",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
@@ -240,7 +239,6 @@
     "Pasted image 20250617022741.png",
     "Semester 1/Formal Methods/Lectures/Lecture 1.md",
     "Semester 1/System Security/Q&A.md",
-    "Semester 1/Applied Probability/4- Introduction to Stochastic Processes.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled 1.canvas"
   ]
