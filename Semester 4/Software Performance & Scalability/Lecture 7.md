@@ -57,6 +57,12 @@ P2=61.8 W
 # Inspection Paradox
 
 ![[Pasted image 20260323093933.png]]
-The residual Life: The time left for a job to finish
+* The residual Life: The time left for a job to finish
+
 
 Conclusion: The Random Observer has a higher probability to see the longer job in service at its arrival Time
+
+** ***Check Expected Residual Life Mathematical proof from Notes on Moodle
+
+Examples: 
+- Exponential 
