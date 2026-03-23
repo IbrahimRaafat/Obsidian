@@ -11,12 +11,14 @@
             "id": "6d10679071d1abc0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf"
+                "file": "Semester 4/Software Performance & Scalability/Lecture 7.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4. Speak Elixir"
+              "icon": "lucide-file",
+              "title": "Lecture 7"
             }
           }
         ]
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
+                "file": "Semester 4/Software Performance & Scalability/Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Speak Elixir"
+              "title": "Backlinks for Lecture 7"
             }
           },
           {
@@ -192,6 +194,10 @@
   },
   "active": "6d10679071d1abc0",
   "lastOpenFiles": [
+    "Pasted image 20260323093933.png",
+    "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
+    "Semester 4/Software Performance & Scalability/Lecture 7.md",
+    "Semester 4/Software Performance & Scalability",
     "Semester 4/Advanced Programming Languages/PDFs/4. Student Project.pdf",
     "Semester 4/Advanced Programming Languages/Conception, evolution, and application of functional programming languages.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/5. The λ Calculus.pdf",
@@ -200,12 +206,9 @@
     "Semester 4/Advanced Programming Languages/project",
     "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell.pdf",
     "Semester 4/Learning with MD/Redomender Systems.md",
-    "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/3. Speak Scala.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell Solutions.hs",
     "Semester 4/Advanced Programming Languages/PDFs/1.Core Aspects of PL Design.pdf",
-    "Semester 4/Advanced Programming Languages/PDFs/0. Welcome.pdf",
-    "Semester 4/Advanced Programming Languages/PDFs",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
@@ -238,7 +241,6 @@
     "Pasted image 20250617223344.png",
     "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
     "Pasted image 20250617022741.png",
-    "Semester 1/Formal Methods/Lectures/Lecture 1.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled 1.canvas"
   ]
