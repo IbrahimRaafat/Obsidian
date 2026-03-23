@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/Software Performance & Scalability/Lecture 7.md",
+                "file": "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7"
+              "title": "2. Speak Haskel"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 4/Software Performance & Scalability/Lecture 7.md",
+                "file": "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 7"
+              "title": "Backlinks for 2. Speak Haskel"
             }
           },
           {
@@ -194,10 +194,11 @@
   },
   "active": "b89a97f1db43871a",
   "lastOpenFiles": [
+    "Semester 4/Software Performance & Scalability/Lecture 7.md",
+    "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
     "Semester 4/Advanced Programming Languages/PDFs/6. Computing with λ Calculus.pdf",
     "Pasted image 20260323093933.png",
     "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
-    "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Semester 4/Software Performance & Scalability",
     "Semester 4/Advanced Programming Languages/PDFs/4. Student Project.pdf",
     "Semester 4/Advanced Programming Languages/Conception, evolution, and application of functional programming languages.pdf",
@@ -209,7 +210,6 @@
     "Semester 4/Learning with MD/Redomender Systems.md",
     "Semester 4/Advanced Programming Languages/PDFs/3. Speak Scala.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell Solutions.hs",
-    "Semester 4/Advanced Programming Languages/PDFs/1.Core Aspects of PL Design.pdf",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
