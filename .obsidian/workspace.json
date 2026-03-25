@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2. Speak Haskel"
             }
+          },
+          {
+            "id": "78cf3291e7c3fce6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Speak Haskel"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,7 +204,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b89a97f1db43871a",
+  "active": "78cf3291e7c3fce6",
   "lastOpenFiles": [
     "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
