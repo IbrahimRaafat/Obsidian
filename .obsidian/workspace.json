@@ -11,30 +11,15 @@
             "id": "6d10679071d1abc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 4/Advanced Programming Languages/Lectures/5.Lambda Calculus.md"
               },
               "icon": "lucide-file",
-              "title": "2. Speak Haskel"
-            }
-          },
-          {
-            "id": "78cf3291e7c3fce6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "title": "5.Lambda Calculus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester 4/Advanced Programming Languages/Lectures/5.Lambda Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 5.Lambda Calculus"
             }
           },
           {
@@ -204,10 +190,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "78cf3291e7c3fce6",
+  "active": "6d10679071d1abc0",
   "lastOpenFiles": [
-    "Semester 4/Software Performance & Scalability/Lecture 7.md",
+    "Semester 4/Advanced Programming Languages/Lectures/6. Computing with Lambda Calculus.md",
+    "Semester 4/Advanced Programming Languages/Lectures/5.Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
+    "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Semester 4/Advanced Programming Languages/PDFs/6. Computing with λ Calculus.pdf",
     "Pasted image 20260323093933.png",
     "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
@@ -216,7 +204,6 @@
     "Semester 4/Advanced Programming Languages/Conception, evolution, and application of functional programming languages.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/5. The λ Calculus.pdf",
     "Semester 4/Advanced Programming Languages/project/Notes.md",
-    "Semester 4/Advanced Programming Languages/Lectures/Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/project",
     "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell.pdf",
     "Semester 4/Learning with MD/Redomender Systems.md",
@@ -252,7 +239,6 @@
     "Pasted image 20250617223733.png",
     "Pasted image 20250617223441.png",
     "Pasted image 20250617223344.png",
-    "Semester 2/Software Performance & Scalability/PDFs/Notes.md",
     "Semester 2/Web Security/Assignments/Untitled.canvas",
     "Untitled 1.canvas"
   ]
