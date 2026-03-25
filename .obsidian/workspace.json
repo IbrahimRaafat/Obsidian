@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ee6fe7440e5467",
+        "id": "ce9b15a282dee189",
         "type": "tabs",
         "children": [
           {
-            "id": "6d10679071d1abc0",
+            "id": "009d1dafe336c87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
+                "file": "Erasmus/TUW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Inductive Definitions"
+              "title": "TUW"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
+                "file": "Erasmus/TUW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7. Inductive Definitions"
+              "title": "Backlinks for TUW"
             }
           },
           {
@@ -192,8 +192,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6d10679071d1abc0",
+  "active": "009d1dafe336c87c",
   "lastOpenFiles": [
+    "Erasmus/Conferma_di_partenza_confirmation_of_departure.rtf",
+    "Erasmus/Learning_agreement_per_ricerca_tesi_learning_agreement_for_research_activities.rtf",
+    "Erasmus/Richiesta_prolungamento_mobilita_request_for_extension.rtf",
+    "Erasmus/Richiesta_prolungamento_mobilita_request_for_extension (1).rtf",
+    "Erasmus/Conferma_di_arrivo_confirmation_of_arrival.rtf",
+    "Erasmus/TUW.md",
+    "Erasmus",
+    "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
     "Semester 4/Advanced Programming Languages/Lectures/6. Computing with Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/project/4. Student Project.pdf",
     "Semester 4/Advanced Programming Languages/project/Notes.md",
@@ -201,19 +209,13 @@
     "Semester 4/Advanced Programming Languages/PDFs/6. Computing with λ Calculus.pdf",
     "Semester 4/Advanced Programming Languages/Lectures/3.Speak Scala.md",
     "Semester 4/Advanced Programming Languages/Lectures/4.Speak Elixir.md",
-    "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
     "Semester 4/Advanced Programming Languages/Lectures/5.Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
     "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Pasted image 20260323093933.png",
     "Semester 4/Advanced Programming Languages/PDFs/4. Speak Elixir.pdf",
     "Semester 4/Software Performance & Scalability",
-    "Semester 4/Advanced Programming Languages/PDFs/4. Student Project.pdf",
-    "Semester 4/Advanced Programming Languages/PDFs/5. The λ Calculus.pdf",
-    "Semester 4/Advanced Programming Languages/project",
-    "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell.pdf",
     "Semester 4/Learning with MD/Redomender Systems.md",
-    "Semester 4/Advanced Programming Languages/PDFs/3. Speak Scala.pdf",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
@@ -233,7 +235,6 @@
     "Semester 2/Software Security/Exam.md",
     "Pasted image 20250918015049.png",
     "Semester 1/Software Architecture/Project.md",
-    "Semester 1/Software Architecture/؛قختثؤف.md",
     "Pasted image 20250908030534.png",
     "Pasted image 20250617223926.png",
     "Pasted image 20250617223902.png",
