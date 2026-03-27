@@ -5,9 +5,9 @@
 	- [ ] The Learned Ancient Egyptians
 		- [x] Astronomical Consciousness
 		- [x] The Advanced Egyptian Medical Library 
-		- [ ] Sacred Geometry and Natural Sciences
+		- [x] Sacred Geometry and Natural Sciences
 		- [x] Mathematics and Numerology
-		- [ ] The Sacred Ratios
+		- [x] The Sacred Ratios
 		- [ ] The Original Universal Language
 		- [ ] How The One World Language[Egyptian] Became The Many [Letterforms and Sound Divergence]
 		- [ ] The Egyptian Alphabetical Form of Writing
