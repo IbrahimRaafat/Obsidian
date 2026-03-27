@@ -3,8 +3,8 @@
 - [ ] Library
 - [ ] Articles
 	- [ ] The Learned Ancient Egyptians
-		- [ ] Astronomical Consciousness
-		- [ ] The Advanced Egyptian Medical Library 
+		- [x] Astronomical Consciousness
+		- [x] The Advanced Egyptian Medical Library 
 		- [ ] Sacred Geometry and Natural Sciences
 		- [x] Mathematics and Numerology
 		- [ ] The Sacred Ratios
