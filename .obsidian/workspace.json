@@ -11,13 +11,14 @@
             "id": "f2711db539a04503",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.base",
-                "viewName": "Table"
+                "file": "Egyptian Wisdom Center.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "Egyptian Wisdom Center"
             }
           }
         ]
@@ -73,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.base",
+                "file": "Egyptian Wisdom Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Egyptian Wisdom Center"
             }
           },
           {
@@ -168,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,20 +194,23 @@
   },
   "active": "f2711db539a04503",
   "lastOpenFiles": [
+    "Courses req..md",
+    "Egyptian Wisdom Center.md",
+    "Drafting Tools.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.base",
     "Untitled 2.base",
     "Semester 4/Advanced Programming Languages/project/Notes.md",
     "Semester 4/Advanced Programming Languages/project/4. Student Project.pdf",
     "Semester 4/Advanced Programming Languages/PDFs/2. Speak Haskell.pdf",
     "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base",
     "Erasmus/TUW.md",
     "Erasmus/Conferma_di_partenza_confirmation_of_departure.rtf",
     "Erasmus/Learning_agreement_per_ricerca_tesi_learning_agreement_for_research_activities.rtf",
     "Erasmus/Richiesta_prolungamento_mobilita_request_for_extension.rtf",
     "Erasmus/Richiesta_prolungamento_mobilita_request_for_extension (1).rtf",
-    "Erasmus/Conferma_di_arrivo_confirmation_of_arrival.rtf",
-    "Erasmus",
     "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
     "Semester 4/Advanced Programming Languages/Lectures/6. Computing with Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/Lectures/3.Speak Scala.md",
@@ -219,11 +224,8 @@
     "Semester 2/Cloud Computing and Distributed Systems/Lecture 1.md",
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "Study Status.md",
-    "Courses req..md",
-    "Drafting Tools.md",
     "TOC.md",
     "Untitled 2.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Pasted image 20250430045503.png",
     "Pasted image 20250918034429.png",
@@ -239,7 +241,6 @@
     "Pasted image 20250617223733.png",
     "Pasted image 20250617223441.png",
     "Pasted image 20250617223344.png",
-    "Semester 2/Web Security/Assignments/Untitled.canvas",
-    "Untitled 1.canvas"
+    "Semester 2/Web Security/Assignments/Untitled.canvas"
   ]
 }
