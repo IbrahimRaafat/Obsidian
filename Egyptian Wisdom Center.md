@@ -10,7 +10,7 @@
 		- [x] The Sacred Ratios
 		- [x] The Original Universal Language
 		- [x] How The One World Language[Egyptian] Became The Many [Letterforms and Sound Divergence]
-		- [ ] The Egyptian Alphabetical Form of Writing
+		- [x] The Egyptian Alphabetical Form of Writing
 		- [ ] The Egyptian Alphabetic Writing Styles
 		- [ ] The Cultured Egyptian Language
 		- [ ] “Arabic”: The Stolen Egyptian Language
