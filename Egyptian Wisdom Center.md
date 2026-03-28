@@ -8,8 +8,8 @@
 		- [x] Sacred Geometry and Natural Sciences
 		- [x] Mathematics and Numerology
 		- [x] The Sacred Ratios
-		- [ ] The Original Universal Language
-		- [ ] How The One World Language[Egyptian] Became The Many [Letterforms and Sound Divergence]
+		- [x] The Original Universal Language
+		- [x] How The One World Language[Egyptian] Became The Many [Letterforms and Sound Divergence]
 		- [ ] The Egyptian Alphabetical Form of Writing
 		- [ ] The Egyptian Alphabetic Writing Styles
 		- [ ] The Cultured Egyptian Language
