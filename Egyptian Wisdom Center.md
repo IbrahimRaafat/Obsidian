@@ -35,11 +35,11 @@
 		- [ ] [The Three Roles of Each Egyptian Hieroglyphic Image](https://egyptianwisdomcenter.org/?page_id=366)
 		- [ ] [An Overview of the Egyptian Formation of Ideograms](https://egyptianwisdomcenter.org/an-overview-of-the-egyptian-formation-of-ideograms/)
 	- [ ] Egyptian Architecture [Function and Form, Sacred Geometry, etc.]
-		- [ ] The Function/Objective of the Temple
-		- [ ] The Harmonic Design Parameters
-		- [ ] The Cosmic Proportion of the Human Figure
-		- [ ] The Metaphysical Funnel Conduit Design
-		- [ ] Energy Flow and Connectivity in Egyptian Works
+		- [x] The Function/Objective of the Temple
+		- [x] The Harmonic Design Parameters
+		- [x] The Cosmic Proportion of the Human Figure
+		- [x] The Metaphysical Funnel Conduit Design
+		- [x] Energy Flow and Connectivity in Egyptian Works
 		- [ ] “False Doors”—The Physical Metaphysical Threshold
 		- [ ] Stylistic Ornamentation and Decoration
 		- [ ] Pyramid Power
