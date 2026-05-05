@@ -34,19 +34,19 @@
 		- [ ] [The Egyptian Pictorial Metaphysical Images/Script](https://egyptianwisdomcenter.org/?page_id=365)
 		- [ ] [The Three Roles of Each Egyptian Hieroglyphic Image](https://egyptianwisdomcenter.org/?page_id=366)
 		- [ ] [An Overview of the Egyptian Formation of Ideograms](https://egyptianwisdomcenter.org/an-overview-of-the-egyptian-formation-of-ideograms/)
-	- [ ] Egyptian Architecture [Function and Form, Sacred Geometry, etc.]
+	- [x] Egyptian Architecture [Function and Form, Sacred Geometry, etc.]
 		- [x] The Function/Objective of the Temple
 		- [x] The Harmonic Design Parameters
 		- [x] The Cosmic Proportion of the Human Figure
 		- [x] The Metaphysical Funnel Conduit Design
 		- [x] Energy Flow and Connectivity in Egyptian Works
-		- [ ] “False Doors”—The Physical Metaphysical Threshold
-		- [ ] Stylistic Ornamentation and Decoration
-		- [ ] Pyramid Power
-		- [ ] The Flawed “Common Construction Theory” of The Pyramids
-		- [ ] The Synthetic Concrete Blocks of The Pyramids
-		- [ ] Squaring the Circle
-		- [ ] Sacred Geometry
+		- [x] “False Doors”—The Physical Metaphysical Threshold
+		- [x] Stylistic Ornamentation and Decoration
+		- [x] Pyramid Power
+		- [x] The Flawed “Common Construction Theory” of The Pyramids
+		- [x] The Synthetic Concrete Blocks of The Pyramids
+		- [x] Squaring the Circle
+		- [x] Sacred Geometry
 	- [x] The Egyptian Cosmic Religion
 		- [x] Egyptian Monotheism (The ONE) and Polytheism (The ALL)
 
