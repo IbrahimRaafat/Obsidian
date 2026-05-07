@@ -1,7 +1,7 @@
 # Introduce yourself:
 -   I am Ibrahim Khalil from Egypt, I Finished my bachelors in Computer Engineering in 2024 and Started My Masters In computer science by the end of the same year.
-- Throughout my Bachelor and masters, I have worked in software engineering in different projects, and had internship remotley in austria.
-	- But Now after graduation I'm looking forward to start my career in Large scale company like GYG
+- Throughout my Bachelor and masters, I have worked in software engineering in different projects, and had internship remotely in austria.
+	- But Now after graduation I'm looking forward to start my career in Large scale company like GYG, it will be a great opportunity for me for my personal learning and growth fand to grow in
 
 - Why do you want to work here::
 
@@ -10,7 +10,7 @@ am currently finishing my masters and searching for a career start in a place th
 
 ## **Challenge:**
 
-- My internship in Austria with Aschl Management Systems use a programming language called Wlang, whiich is closed source, has no community and I had no seniors.
+- My internship in Austria with Aschl Management Systems use a programming language called Wlang, which is closed source, has no community and I had no seniors.
 - it was only my and the CEO and he had a culture called sink or swim
 	So:
 	-   I studied the whole documentation
