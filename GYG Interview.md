@@ -1,6 +1,6 @@
 # Introduce yourself:
 -   I am Ibrahim Khalil from Egypt, I Finished my bachelors in Computer Engineering in 2024 and Started My Masters In computer science by the end of the same year.
-- Throughout my Bachelor and masters, I have worked in software engineering in different projects, and had internship remorley in austria.
+- Throughout my Bachelor and masters, I have worked in software engineering in different projects, and had internship remotley in austria.
 	- But Now after graduation I'm looking forward to start my career in Large scale company like GYG
 
 - Why do you want to work here::
