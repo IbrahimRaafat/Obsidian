@@ -21,6 +21,7 @@ am currently finishing my masters and searching for a career start in a place th
 - Technically I am impressed by the app performance, when I first tried the app I had a relatively very slow device and the app always loaded quickly. which was impressive for me
 - From the business side actually I'm impressed about the success story from 2009 and how you GYG manage both solid performance on ground and the app
 - Work Culture and the User Centric Approach
+- 
 
 # Do you use AI in your work? and how do you use it?
 - For a working Full-time student, I have to always search for methods that increase my productivity and efficiency. So since the rise of AI and LLMs and coding tools I've been using them in work and always focusing on following up with new tools and technologies.
@@ -29,4 +30,10 @@ am currently finishing my masters and searching for a career start in a place th
 
 # **The Question:** _"Tell me about a time you had to complete a project with a tight deadline. How did you decide what to prioritize?"_
 
-- **GYG Context:** They want to see that you’d rather ship a "working" version and iterate than spend months on a "perfect" version that never launches.
+- Actually I'm Currently in a similar situation were we are late on shipping our new revamped ecommerce with its full new features and I proposed having the first release published asap and then unlock features as we go instead of delaying for ever.
+
+
+
+# Expected Sallary:
+- I did a quick market research and say a range around 55-75K and you will be fine.
+- This question is asked so you show you did your research and you know what you’re bringing and what we need
