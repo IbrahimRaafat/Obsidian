@@ -7,13 +7,13 @@
 
 ## Priority Order
 
-| # | Topic | Where to study | Why it matters |
-|---|-------|----------------|----------------|
-| 1 | Heavy-tailed distributions, Pareto, CCDF | Notes PDF + Slides_SPS.pdf | Core of the whole project |
-| 2 | M/G/1 queue, Pollaczek–Khinchine formula, Little's Law | Queueing_network.pdf + Slides_SPS-2.pdf | Explains why mean response time explodes near saturation |
-| 3 | Load balancing policies (JSQ, LWL, SITA) | Slides_SPS-4.pdf or Slides_SPS-5.pdf | Directly maps to the 5 policies we implemented |
-| 4 | What we built and why | `CHANGES.md` in the repo | Oral interview will ask about design decisions |
-| 5 | What experiments are done / remaining | `RUNBOOK.md` in the repo | So you can run and interpret results |
+| #   | Topic                                                  | Where to study                          | Why it matters                                           |
+| --- | ------------------------------------------------------ | --------------------------------------- | -------------------------------------------------------- |
+| 1   | Heavy-tailed distributions, Pareto, CCDF               | Notes PDF + Slides_SPS.pdf              | Core of the whole project                                |
+| 2   | M/G/1 queue, Pollaczek–Khinchine formula, Little's Law | Queueing_network.pdf + Slides_SPS-2.pdf | Explains why mean response time explodes near saturation |
+| 3   | Load balancing policies (JSQ, LWL, SITA)               | Slides_SPS-4.pdf or Slides_SPS-5.pdf    | Directly maps to the 5 policies we implemented           |
+| 4   | What we built and why                                  | `CHANGES.md` in the repo                | Oral interview will ask about design decisions           |
+| 5   | What experiments are done / remaining                  | `RUNBOOK.md` in the repo                | So you can run and interpret results                     |
 
 ---
 
