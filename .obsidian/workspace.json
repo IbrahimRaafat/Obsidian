@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -192,8 +192,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7d88d0cdaf79431c",
+  "active": "b89a97f1db43871a",
   "lastOpenFiles": [
+    "Semester 4/Software Performance & Scalability/Lecture 7.md",
+    "Semester 4/Software Performance & Scalability/Study Plan - Load Balancing Project.md",
     "Semester 4/Learning with MD/04 Recommender Systems.pdf",
     "extra/Untitled 1.md",
     "extra/GYG Interview.md",
@@ -219,14 +221,12 @@
     "Erasmus/TUW.md",
     "Erasmus/Conferma_di_partenza_confirmation_of_departure.rtf",
     "Erasmus/Learning_agreement_per_ricerca_tesi_learning_agreement_for_research_activities.rtf",
-    "Erasmus/Richiesta_prolungamento_mobilita_request_for_extension.rtf",
     "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
     "Semester 4/Advanced Programming Languages/Lectures/6. Computing with Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/Lectures/3.Speak Scala.md",
     "Semester 4/Advanced Programming Languages/Lectures/4.Speak Elixir.md",
     "Semester 4/Advanced Programming Languages/Lectures/5.Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/Lectures/2. Speak Haskel.md",
-    "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "extra/Pasted image 20260323093933.png",
     "Semester 4/Learning with MD/Redomender Systems.md",
     "Semester 2/Software Security/Lecture 2 - assembly-recap.md",
