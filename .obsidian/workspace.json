@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/Software Performance & Scalability/Untitled.md",
+                "file": "Semester 4/Software Performance & Scalability/Speaking Notes — Ibrahim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Speaking Notes — Ibrahim"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "581812d14bd7007f",
@@ -195,7 +195,7 @@
   "active": "7d88d0cdaf79431c",
   "lastOpenFiles": [
     "Semester 4/Software Performance & Scalability/Study Plan - Load Balancing Project.md",
-    "Semester 4/Software Performance & Scalability/Untitled.md",
+    "Semester 4/Software Performance & Scalability/Speaking Notes — Ibrahim.md",
     "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Semester 4/Learning with MD/04 Recommender Systems.pdf",
     "extra/Untitled 1.md",
