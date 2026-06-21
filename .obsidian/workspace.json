@@ -11,14 +11,12 @@
             "id": "7d88d0cdaf79431c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 4/Software Performance & Scalability/Speaking Notes — Ibrahim.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf"
               },
-              "icon": "lucide-file",
-              "title": "Speaking Notes — Ibrahim"
+              "icon": "lucide-file-text",
+              "title": "Lecture2_IntroductionToSoftwareArchitect[ure]"
             }
           }
         ]
@@ -194,8 +192,9 @@
   },
   "active": "7d88d0cdaf79431c",
   "lastOpenFiles": [
-    "Semester 4/Software Performance & Scalability/Study Plan - Load Balancing Project.md",
+    "Semester 1/Software Architecture/Lectures/Lecture 1.md",
     "Semester 4/Software Performance & Scalability/Speaking Notes — Ibrahim.md",
+    "Semester 4/Software Performance & Scalability/Study Plan - Load Balancing Project.md",
     "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Semester 4/Learning with MD/04 Recommender Systems.pdf",
     "extra/Untitled 1.md",
@@ -238,7 +237,6 @@
     "Untitled 2.md",
     "Pasted image 20250430045503.png",
     "Pasted image 20250918034429.png",
-    "extra/2026-03-15.md",
     "Pasted image 20250918015049.png",
     "Pasted image 20250908030534.png",
     "Pasted image 20250617223926.png",
