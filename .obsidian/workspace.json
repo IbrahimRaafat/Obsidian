@@ -11,12 +11,14 @@
             "id": "7d88d0cdaf79431c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf"
+                "file": "Semester 4/Software Performance & Scalability/Speaking Notes — Ibrahim.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture2_IntroductionToSoftwareArchitect[ure]"
+              "icon": "lucide-file",
+              "title": "Speaking Notes — Ibrahim"
             }
           }
         ]
@@ -172,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +194,11 @@
   },
   "active": "7d88d0cdaf79431c",
   "lastOpenFiles": [
+    "Semester 4/Software Performance & Scalability/Lecture 7.md",
+    "Semester 1/Software Architecture/Lectures/Lecture2_IntroductionToSoftwareArchitect[ure].pdf",
     "Semester 1/Software Architecture/Lectures/Lecture 1.md",
     "Semester 4/Software Performance & Scalability/Speaking Notes — Ibrahim.md",
     "Semester 4/Software Performance & Scalability/Study Plan - Load Balancing Project.md",
-    "Semester 4/Software Performance & Scalability/Lecture 7.md",
     "Semester 4/Learning with MD/04 Recommender Systems.pdf",
     "extra/Untitled 1.md",
     "extra/GYG Interview.md",
@@ -220,7 +223,6 @@
     "Untitled 1.base",
     "Erasmus/TUW.md",
     "Erasmus/Conferma_di_partenza_confirmation_of_departure.rtf",
-    "Erasmus/Learning_agreement_per_ricerca_tesi_learning_agreement_for_research_activities.rtf",
     "Semester 4/Advanced Programming Languages/Lectures/7. Inductive Definitions.md",
     "Semester 4/Advanced Programming Languages/Lectures/6. Computing with Lambda Calculus.md",
     "Semester 4/Advanced Programming Languages/Lectures/3.Speak Scala.md",
@@ -234,7 +236,6 @@
     "Semester 2/Cloud Computing and Distributed Systems/discussion topics.md",
     "extra/Study Status.md",
     "TOC.md",
-    "Untitled 2.md",
     "Pasted image 20250430045503.png",
     "Pasted image 20250918034429.png",
     "Pasted image 20250918015049.png",
